@@ -1,0 +1,161 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>The Foundations of Patent Protection</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89838</md:content-id>
+  <md:title>The Foundations of Patent Protection</md:title>
+  <md:abstract/>
+  <md:uuid>18a49d1b-f775-445b-ad0d-122c458d11a0</md:uuid>
+</metadata>
+
+<content>
+
+  <figure id="first-patent">
+    <media id="figure-first-patents" alt="An image of the first US Patent. In barely legible writing, the patent number X 0 0 0 0 0 1 is seen with the date July 31 1790. The United States Seal is visible. ">
+      <image mime-type="image/jpeg" src="../../media/IP_Figure_01_01_001.jpg"/>
+    </media>
+    <caption>
+The first U.S. Patent (credit: US Patent Office via Wikimedia Commons / Public Domain)</caption>
+  </figure>
+
+    <section id="eip-870" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-2252">After completing this section, you will be able to</para>
+      <list id="eip-576">
+        <item>Describe the philosophical logic behind granting patents.</item>
+        <item>Describe the role of patents in fostering invention.</item>
+      </list>
+    </section>
+    <section id="eip-225">
+      <title>Do Patents Really Promote Innovation?</title>
+      <para id="eip-5893">Before reading this section, please watch the overview video below covering the usefulness of patents - how ironic that a system for granting exclusive rights to inventors is the greatest vehicle for knowledge-sharing and technology transfer ever devised by human beings.</para>
+
+
+      <media id="youtube-DPPI" alt="YouTube Video: Do Patents Promote Innovation?">
+      <iframe width="660" height="371.4" src="https://openstax.org/l/DoPatentsPromoteInnovation"/>
+      </media>
+
+
+    </section>
+    <section id="eip-589">
+      <title>What Is a Patent?</title>
+      <para id="eip-5892">A <term>patent</term> is an <term>intellectual property</term> right granted by the government of a nation to an inventor that gives them the exclusive right to the invention for up to 20 years, in exchange for disclosing the details of the new technology to society for its ultimate benefit.</para>
+      <para id="eip-460">In the United States, a <term>patent</term> is a legal instrument in the form of a document issued by the United States Patent and Trademark Office (USPTO). It gives the inventor of any new, useful, and non-obvious machine, process, manufacture, or composition of matter the right “to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States” for a limited time in exchange for public disclosure of the invention.<footnote id="footnote1"> United States Patent and Trademark Office. (2012, January 26). Patents. Retrieved from www.uspto.gov/patents/index.jsp</footnote> A U.S. patent is only recognized domestically, and cannot be enforced in another country.</para>
+    </section>
+    <section id="eip-4542"><title>History of Patents in the United States</title><para id="eip-454">The legal foundation for U.S. intellectual property rights was laid by the Founders in 1787, in the very first Article of the U.S. Constitution, which outlined the precepts of our democratic society. In Article 1, Section 8, Clause 8 of the Constitution, Congress was given the authority to “promote the progress of Science and useful Arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries”.<footnote id="footnote2">U.S. Constitution Arr. 1, § 8</footnote></para>
+<para id="eip-638">America was the first country in the world to enshrine intellectual property rights in its national constitution. And the Founders did this quite deliberately, says B. Zorina Khan, an economic historian at Bowdoin College whose book, <emphasis effect="italics">The Democratization of Invention: Patents and Copyrights in American Economic Development</emphasis>, was awarded the Alice Hanson Jones Prize for an outstanding work in economic history.<footnote id="footnote3">B. Zorina Khan, <emphasis effect="italics">The Democratization of Invention: Patents and Copyrights in American Economic Development</emphasis>, 1790-1920, Cambridge University Press, 2005. </footnote> “To the men who gathered in Philadelphia to ‘promote the general welfare,’” Khan wrote, “it was self-evident that ideas, industrial and cultural inventions, and democratic values were integrally related. American democratic institutions would ensure that rewards accrued to the deserving based on [merit] rather than on the arbitrary basis of class, patronage, or privilege.”</para>
+<para id="eip-678">Indeed, the Founders viewed intellectual property rights as vital to the new nation’s economic survival. As George Washington himself stated in his first annual address to Congress in 1790, “The advancement of agriculture, commerce, and manufactures by all proper means will not, I trust, need recommendation. But I cannot forbear intimating to you the expediency of giving effectual encouragement to the introduction of new and useful inventions.”</para>
+<para id="eip-470">The question is, with all the challenges they faced, why did the Founders think it so crucial to create a strong intellectual property system? Their reasons were both universal—i.e., applying to all societies—and also very particular to America’s revolutionary experience.</para>
+    </section><section id="eip-7162">
+      <title>“Bargain” Theory vs. “Natural Rights” Theory</title>
+      <para id="eip-716">Every society that affirms intellectual property rights offers two justifications for doing so: the <term>bargain or contract theory</term> and the <term>natural rights theory</term>.</para><section id="eip-501">
+        <title>“Bargain” Theory</title>
+        <para id="eip-50">The “bargain” theory starts with the commonsense premise that people will be encouraged to invent new products and services that benefit society if they are likely to profit by doing so. The U.S. Constitution thus offers inventors a bargain: If you invent something useful—e.g., a cotton gin in 1794 that boosted agricultural production a hundredfold, or a semiconductor 163 years later that sparked the creation of a trillion-dollar new industry and millions of jobs—then the Constitution and statutes say that, as a quid pro quo, you can have the exclusive right to that invention for a “limited time,” after which it goes into the public domain and belongs to society.</para>
+        <figure id="electrode-lead">
+          <media id="figure-electrode-lead" alt="An hand-drawn schematic of a semi-conductor. It is labeled October 28 1969 and has the names George McIver and James Bouie. The image shows what appears to be a flat plate with various components labeled.">
+            <image mime-type="image/jpeg" src="../../media/IP_Figure_01_01_002.jpg"/>
+          </media>
+          <caption>
+      Patent for an electrode lead for semiconductor devices(credit: US Patent Office via Wikimedia Commons / Public Domain)</caption>
+        </figure>
+        <para id="eip-926">There is something so simple yet economically potent about this concept. As Abraham Lincoln—America’s only presidential patentee (<link url="https://www.openstax.org/l/US6469">No. 6469</link> for a device to lift boats over shoals)—noted, the beauty of the patent system is that it “added the fuel of interest to the fire of genius.”</para>
+      </section>
+      <section id="eip-1682">
+        <title>“Natural Rights” Theory</title>
+        <para id="eip-168">The “natural rights” theory, meanwhile, invokes another commonsense premise that most of us instinctively hold to be true: that the product of mental labor is by all rights the property of its creator, no less than the product of physical labor is the property of its creator (or of the person who purchases it from that creator). This is what Daniel Webster was referring to when he said, “The American Constitution does not attempt to give an inventor a right to their invention, or an author a right to his composition; it recognizes an original, pre-existing, inherent right of property in such invention or composition.”</para>
+        <para id="eip-242">This right is not absolute, of course, and inventors’ inherent rights may at times be circumscribed by national security or other concerns. But in exchange for disclosing to the public the nature and details of the invention, the Constitution authorizes the government to enforce the inventor’s exclusive property right to that invention for a limited time.</para>
+        <figure id="daniel-webster">
+          <media id="figure-daniel-webster" alt="A photograph of Daniel Webster.">
+            <image mime-type="image/jpeg" src="../../media/IP_Figure_01_01_003.jpg"/>
+          </media>
+          <caption>Daniel Webster, an American lawyer and statesman. (credit: Wikipedia / Public Domain)</caption>
+        </figure>
+        <para id="eip-668">Two important public policy goals are thus served. The inherent property rights of inventors and authors to their creations are protected, thereby helping to ensure that the wellsprings of creation and productivity do not dry up for lack of incentive. And yet the benefits derived from these inventions and creations are ultimately harnessed to the public good through disclosure, thus promoting the progress of the nation and “the general welfare” of its citizens.</para>
+      </section>
+    </section>
+    <section id="eip-863">
+      <title>How Patents Foster Innovation</title>
+      <para id="eip-8631">To help understand why patent rights not only encourage inventors but also promote the wider diffusion of new technology for the benefit of society, economic historians Naomi Lamoreaux and the late Kenneth Sokoloff suggested the following thought experiment:</para>
+      <para id="eip-8632"> Imagine a world in which there was no patent system to guarantee inventors property rights to their discoveries. In such a world, inventors would have every incentive to be secretive and to guard jealously their discoveries from competitors [because those discoveries] could, of course, be copied with impunity. “By contrast, in a world where property rights in invention were protected, the situation would be very different. Inventors would now feel free to promote their discoveries as widely as possible so as to maximize returns either from commercializing their ideas themselves or from [licensing] rights to the idea to others. The protections offered by the patent system would thus be an important stimulus to the exchange of technological information in and of themselves. Moreover, it is likely that the cross -fertilization that resulted from these information flows would be a potent stimulus to technological change. <footnote id="footnote4"> Naomi R. Lamoreaux and Kenneth L. Sokoloff, <emphasis effect="italics">“Inventors, Firms, and the Market for Technology: U.S. Manufacturing in the Late Nineteenth and Early Twentieth Centuries,”</emphasis> Historical Paper 98, National Bureau of Economic Research, Cambridge, Mass., 1997.</footnote></para>
+
+      <para id="eip-965">It’s more than just “likely.” Extensive research in the United States and other nations shows that patents have served as a powerful stimulant to technological knowledge sharing. A 2006 survey published by the French economists Francois Leveque and Yann Meniere, for example, found that 88 percent of U.S., European, and Japanese businesses rely upon the information disclosed in patents to keep up with technology advances and direct their own R&amp;D efforts.<footnote id="footnote5"> Francois Leveque and Yann Meniere, “Patents and Innovation: Friends or Foes?” CERNA (Centre d’economie industrielle Ecole Nationale Superieure des Mines de Paris), December, 2006. </footnote></para>
+      <section id="eip-1902">
+        <title>Patents Don’t Block Innovation, They Promote It</title>
+        <para id="eip-190">From the earliest days of the United States, patent and legal records show how inventors (including Thomas Edison) regularly kept abreast of developments in their fields. They did this by studying patent descriptions published by both the USPTO as well as by industry publications such as Scientific American, which was founded in 1845 by Munn and Company, the leading patent agency of the nineteenth century, expressly to spread new technological knowledge and facilitate the buying and selling of patents. For example, Elias E. Reis—inventor of a number of devices to exploit the heat generated by electrical currents—reported that when he read in the Official Gazette in 1886 about a patent issued to Elihu Thomson for a new method of electric welding, “there immediately opened up to my mind a field of new applications to which I saw I could apply my system of producing heat in large quantities.”<footnote id="footnote6"> See “Record of Elias E. Reis,” 8, <emphasis effect="italics">Thomson v. Reis</emphasis>, case 13,971, box 1,845, Interference Case Files, 1836-1905, Records of the Patent Office, Record Group 241, National Archives, courtesy of B. Zorina Khan.</footnote> In many industries, specialized journals kept readers informed about new patents of interest.</para>
+        <para id="eip-449">In fact, new research in 2012 discovered that rather than blocking development, Thomas Edison’s seminal 1880 incandescent lamp patent (<link url="https://www.openstax.org/l/US223898A">No. 223,898</link>) actually “stimulated downstream development work” that resulted in “new technologies of commercial significance [including] the Tesla coil, hermetically sealed connectors, chemical vapor deposition process, tungsten lamp filaments and phosphorescent lighting that led to today’s fluorescent lamps.”<footnote id="footnote7"> Ron D. Katznelson, “Inventing Around Edison’s Incandescent Lamp Patent: Evidence of Patents’ Role in Stimulating Downstream Development,” May, 2012, derived from: http://works.bepress.com/cgi/viewcontent.cgi?article=1073&amp;context=rkatznelson</footnote></para>
+        <para id="eip-674">Even the word “patent” signifies its social purpose of disclosure. It is derived from the Latin patent meaning “open,” and is the present participle of “pate¯re,” meaning “to stand wide open.”</para>
+        <para id="eip-814">This explains the origin of the term “letters patent” (“letters that lie open”), which refer to the patent documents issued by the English Crown. These were not closed with a seal but were instead kept open, with the seal hanging at the bottom, notifying all not to infringe upon the patent.</para>
+        <figure id="scientific-america">
+          <media id="figure-scientific-america" alt="An image of a front page of Scientific American from 1845. The featured article is of an Improved Rail Car.">
+            <image mime-type="image/png" src="../../media/IP_Figure_01_01_004.png"/>
+          </media>
+          <caption>Front page of the first "Scientific American" issue, August 8, 1845. (credit: modification of work by Scientific American via Wikimedia Commons / Public Domain)</caption>
+        </figure>
+
+        <para id="eip-3">As with any economic and legal instrument, patents have the potential to slow innovation if their grant of exclusive rights is too broad. But the overwhelming preponderance of economic research and real-world experience demonstrate that, on balance, intellectual property rights tend to stimulate invention, economic growth, and the diffusion of new technological knowledge in every country where they exist.</para>
+
+        <para id="eip-366">This fact by itself, however, does not explain why the U.S. patent system became a model for much of the world. To understand why it did—and how it helped build the most successful economy in the history of the world—we must examine the revolutionary design of the U.S. patent system itself and the ways in which it overcame the weaknesses of earlier patent systems.</para>
+      </section>
+    </section>
+    <section id="eip-1" class="assessment-questions">
+<title>Assessment Questions</title>
+      <exercise id="eip-297">
+        <problem id="eip-372">
+          <para id="eip-461">A patent gives an inventor the exclusive right to which of the following?</para>
+            <list id="eip-idm405224256" list-type="enumerated" number-style="upper-alpha">
+              <item>The ability to profit from their invention.</item>
+              <item>The ability to prevent others from making, using, offering for sale, or selling the invention.</item>
+              <item>The ability to prevent others from learning the secrets of the invention.</item>
+              <item>All of the above.</item>
+            </list>
+        </problem>
+        <solution id="eip-147">
+          <para id="eip-971">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-664">
+        <problem id="eip-218">
+          <para id="eip-504">The “bargain” theory, a theoretical justification for patents, argues which of the following?</para>
+            <list id="eip-id1166306268122" list-type="enumerated" number-style="upper-alpha">
+              <item>In exchange for inventing something useful, society gives the inventor the exclusive right to their invention for a limited time.</item>
+              <item>The product of mental labor should be the property of its creator.</item>
+              <item>Government negotiates with inventors to determine the value of an invention.</item>
+              <item>None of the above.</item>
+            </list>
+        </problem>
+        <solution id="eip-283">
+          <para id="eip-977">A.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-577">
+        <problem id="eip-738">
+          <para id="eip-81">Which <emphasis effect="italics">two</emphasis> public policy goals are served by granting patent rights?</para>
+            <list id="eip-id1220469" list-type="enumerated" number-style="upper-alpha">
+              <item>By protecting the property rights of inventors, the wellsprings of creation do not dry up for lack of incentive.</item>
+              <item>Patent rights ensure equal treatment for all.</item>
+              <item>From each according to their ability, to each according to their need.</item>
+              <item>The public interest is served by disclosing the details of the invention and thereby promoting the progress of the nation.</item>
+            </list>
+        </problem>
+        <solution id="eip-520">
+          <para id="eip-552">A. and D.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-634">
+        <problem id="eip-79">
+          <para id="eip-735">Through which of the following means do patents also promote knowledge sharing?</para>
+            <list id="eip-id1170510780346" list-type="enumerated" number-style="upper-alpha">
+              <item>To get a patent, inventors must disclose the secrets of their inventions.</item>
+              <item>Patents represent the world’s greatest library of technical knowledge.</item>
+              <item>Innovators keep up with technical trends by reading other inventors’ patents.</item>
+              <item>All of the above.</item>
+            </list>
+        </problem>
+        <solution id="eip-34">
+          <para id="eip-430">D.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+
+</document>

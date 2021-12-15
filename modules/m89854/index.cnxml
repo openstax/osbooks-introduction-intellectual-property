@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Trial</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89854</md:content-id>
+  <md:title>Trial</md:title>
+  <md:abstract/>
+  <md:uuid>cc94f918-9591-4f86-9316-e26879d52dd6</md:uuid>
+</metadata>
+
+<content>
+
+  <figure id="gavel">
+    <media id="figure-gavel" alt="A gavel on a desk.">
+      <image mime-type="image/jpeg" src="../../media/IP_Figure_02_06_001.jpg"/>
+    </media>
+    <caption>(credit: Photograph by Joe Gratz via flickr / CC BY 2.0)</caption>
+  </figure>
+
+    <section id="eip-663" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-302">After completing this section, you will be able to</para>
+      <list id="eip-508">
+        <item>Understand the importance of jury selection and opposing arguments.</item>
+        <item>Grasp why patent trials are often called “morality plays.”</item>
+      </list>
+    </section>
+    <para id="eip-30">The following describes a jury trial. A bench trial is essentially the same, but without the elements involving the jury.<footnote id="footnote41">
+        See generally, Rules 40-63, Fed. R. Civ. P.
+      </footnote>
+    </para>
+    <section id="eip-7943">
+      <title>Jury Selection</title><para id="eip-794">The trial begins with the selection of the jury. The jury is selected (or “picked”) from a group of prospective jurors called to court to serve in accordance with the laws and practices of the local jurisdiction.</para>
+    <para id="eip-809">Each judge has a procedure for picking a jury. Most involve a questionnaire that each prospective juror must complete and provide to the judge and the parties’ lawyers. The answers are intended to reveal whether any
+      reason exists why a prospective juror should not serve on the jury. Typical reasons for excluding a prospective juror include that the juror works for or knows one of the lawyers in the case, works for or does business with one of the parties, has a
+      close relative that works for one of the parties, knows something about the subject matter of the case, or is unable to serve because of a disability or a previously planned vacation for which they have already purchased a nonrefundable ticket.
+      The judge also typically asks the prospective jurors whether they have a bias or prejudice that would prevent them from making a fair decision.</para>
+    <para id="eip-528">Once the judge has “excused” from serving any prospective jurors for “cause” (i.e., because of one of the reasons listed above or some other reason that court believes provides good cause for excusing that person), the clerk
+      selects at random from the remaining prospective jurors the number that will be seated as the jury, plus six. The number of jurors seated in a case depends on the expected length of the trial and the practices of that judge. At least six and no more
+      than twelve jurors must decide a case, but any number between six and twelve can be seated.<footnote id="footnote42">
+        See Rule 48, Fed. R. Civ. P.
+      </footnote>
+      The reason a court usually seats more than six jurors is to assure that the trial will end with at least the minimum of six jurors necessary to decide the case even if one or more jurors need to be excused during the trial, such as for illness or
+      emergency. Judges typically seat seven to nine jurors for this reason. Only rarely do judges in civil patent cases seat a full twelve jurors, because once seated a juror must participate in reaching the decision (unless excused for cause), and all
+      jury decisions in federal cases, including patent cases, must be unanimous.<footnote id="footnote43">
+        See Rule 48(a) and (b), Fed. R. Civ. P.
+      </footnote>
+      The general rule is, the more jurors there are, the longer it takes for them to reach a unanimous verdict, and the higher the likelihood that the case will result in a “hung” jury (i.e., an inability for the jury to reach a unanimous decision).</para>
+    <para id="eip-404">The clerk selects the designated number for the jury, plus six, because each party gets three “peremptory challenges” to the proposed jury panel, whereby a party can remove a juror without having to give a reason why. Thus, if the
+      judge has decided the jury should begin with eight jurors, the clerk will select 14 so that the plaintiff and defendant (collectively if there is more than one plaintiff and/or defendant) are each able to strike or eliminate three prospective jurors,
+      leaving eight to hear the case.</para>
+    <para id="eip-269">Once the jury is picked and sworn in, the judge will give the jury preliminary jury instructions. These explain what the case is about, how the trial will proceed, and a description of what a patent is and how the patent system
+      works. Occasionally, judges opt to show the jury the video below, entitled “An Introduction to the Patent System,” which was created by the Federal Judicial Center and is intended to be neutral.<footnote id="footnote44">
+        You can see this video at
+        https://archive.org/details/gov.ntis.ava21157vnb1.
+      </footnote>
+    </para></section>
+    <section id="eip-2763">
+      <title>Opening Statements</title><para id="eip-276">The next step is the opening statements by the opposing parties, starting with the plaintiff and followed by the defendant. If there are multiple plaintiffs or defendants, the judge will give equal time to each side
+      and let the individual parties work out the allocation of time. The opening statement is intended to provide a road map for the jury about what the party intends to prove, and is expected to be devoid of argument. But lawyers rarely present an
+      opening statement without some argument. The judge can intercede, and an opposing party may object, if a party crosses the “no argument” line too far.</para>
+    <para id="eip-848">The opening statements are where many believe the trial is won or lost because the jury forms initial opinions about who is right and who is wrong in the case based on what they hear at this beginning stage. Thus, each party’s
+      trial lawyer tries to craft a story to tell that casts their client in the best possible light. Trials can be likened to a morality play, in which each party tries to cast themselves as in the right, and the opponent as doing them wrong. In patent
+      cases, plaintiffs often portray defendants as thieving freeloaders, attempting to benefit unfairly from the inventiveness of the plaintiff rather than invest in developing their own products. Defendants, on the other hand, often portray patentees as
+      greedy monopolists, trying to stifle competition and deny consumers choice and less-expensive alternatives.</para>
+    <para id="eip-991">Whether or not the common wisdom is correct, it is with the opening statements that the jurors begin their struggle to find truth among the competing stories they will hear during the trial.</para></section>
+    <section id="eip-9503">
+      <title>The Evidence is Presented</title><para id="eip-950">The plaintiff then presents its case, calling witnesses and introducing exhibits that support its positions. Each opposing party has the opportunity to object to exhibits and testimony, and to cross-examine
+      witnesses. The judge rules on all objections and generally oversees the proceedings to assure that the trial is conducted properly. After the plaintiff rests its case, the defendant presents its defense, again by introducing exhibits and offering
+      testimony from witnesses. The trial concludes with the plaintiff calling rebuttal witnesses, who are limited to rebutting testimony from the defendant’s witnesses. Each side usually calls one or more experts to testify on the issues of infringement
+      and validity (or invalidity), as well as on damages.
+    </para></section>
+    <section id="eip-6803">
+      <title>Closing Arguments</title><para id="eip-680">After the evidence has been presented, the parties make their closing arguments. Usually the plaintiff goes first, followed by the defendant. The plaintiff has the opportunity to reserve time for rebuttal if it
+      chooses. In some jurisdictions, the defendant must go first and the plaintiff next. In this case, the plaintiff has the last word, and the defendant does not have any opportunity for rebuttal.</para>
+    <para id="eip-832">Closing arguments give each party the opportunity to highlight what they believe is the critical evidence in their favor, and attack the deficiencies in their opponent’s case. It is here that an observer would see the greatest
+      geographic diversity in style and practice. Quite apart from the different styles of trial lawyers and judges across the country, jurors in different parts of the country expect different things from trials, and especially from closing arguments.
+      Thus, an observer would see a very different “show” during a closing argument in the Eastern District of Texas than in the District of Maine.</para>
+    <para id="eip-298">After closing arguments are concluded, the judge reads the final jury instructions. These set forth the law to which the jury must apply the facts they determine during their deliberations.<footnote id="footnote45">
+        See Rule 51, Fed. R. Civ. P.
+      </footnote>
+    </para>
+    <para id="eip-740">Thereafter, the jury retires to the jury room, with copies of the exhibits admitted into evidence, to decide the case.</para></section>
+    <section id="eip-9943">
+      <title>Deliberation and Verdict</title><para id="eip-994">In most patent cases, the jury must answer detailed questions listed in a verdict form, called a special verdict.<footnote id="footnote46">
+        See Rule 49, Fed. R. Civ. P.
+      </footnote>
+      These questions typically list the accused product(s) and the asserted claim(s) and require the jury to decide infringement and validity for each claim and accused product separately. If appropriate, the jury may also be asked to decide what damages,
+      if any, are to be awarded the plaintiff and whether any infringement they may have found to exist was willful or not.
+    </para>
+    <para id="eip-111">The jury deliberates as long as it takes to reach a unanimous decision on each question. During their deliberations, the jury may ask questions of the judge in writing, which the judge answers after consulting with the parties.
+      Should the jury tell the judge that it cannot reach a unanimous verdict, the judge may provide additional instructions and return the jury to its deliberations to “try harder.” Most juries reach a unanimous decision, which is recorded on the verdict
+      form and read by the clerk in open court with the parties present.</para></section>
+    <section id="eip-15" class="assessment-questions">
+      <exercise id="eip-57">
+        <problem id="eip-849">
+          <para id="eip-277">Why do courts usually seat seven to nine jurors rather than six or twelve in most patent cases?</para>
+            <list id="eip-id3195472" list-type="enumerated" number-style="upper-alpha">
+              <item>You need an odd number of jurors to break a tie vote on the verdict.</item>
+              <item>Six jurors won’t be enough for a legal verdict if one is excused during trial, and twelve jurors will likely take too long to decide the case.</item>
+            </list>
+        </problem>
+        <solution id="eip-945">
+          <para id="eip-946">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-12">
+        <problem id="eip-964">
+          <para id="eip-345">Why are patent trials often thought of as morality plays?</para>
+            <list id="eip-id3096418" list-type="enumerated" number-style="upper-alpha">
+              <item>The facts of the case, not each party’s moral views, are all that matters to a jury.</item>
+              <item>It is immoral to spend $3 million to $10 million on a patent suit.</item>
+              <item>Each party casts itself as in the right and its opponent as doing them wrong.</item>
+            </list>
+        </problem>
+        <solution id="eip-947">
+          <para id="eip-948">C.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+
+</document>

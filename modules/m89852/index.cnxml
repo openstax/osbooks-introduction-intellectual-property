@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Getting Started</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89852</md:content-id>
+  <md:title>Getting Started</md:title>
+  <md:abstract/>
+  <md:uuid>66291487-c148-4372-89be-a73d1616c742</md:uuid>
+</metadata>
+
+<content>
+
+  <figure id="the-guardian">
+    <media id="figure-the-guardian" alt="The Guardian statue by James Earle Frasier in front of the United States Supreme Court building in Washington, DC. The statue is seated holding a tablet of laws with the word &quot;Lex&quot; on it, and with a sheathed sword.">
+      <image mime-type="image/jpeg" src="../../media/IP_Figure_02_04_001.jpg"/>
+    </media>
+    <caption>(credit: Photograph by Mark Fischer via flickr / CC BY 2.0)</caption>
+  </figure>
+
+    <section id="eip-550" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-1962">After completing this section, you will be able to</para>
+      <list id="eip-905">
+        <item>Understand the various pretrial motions available to parties in a litigation.</item>
+      </list>
+    </section>
+    <para id="eip-196">Once the decision to file suit is made, and all the factors noted above are considered, the complaint is filed in the clerks’ office of the selected federal court and served in due course on the defendant(s).<footnote id="footnote13">
+        See Rules 3-5, and 7-8, Fed. R. Civ. P.
+      </footnote>
+      The defendant(s) must then decide whether to move to dismiss or transfer the case to a different venue, or file an answer (a response to the infringement claim).<footnote id="footnote14">
+        See Rules 7-8, and 12, Fed. R. Civ. P.
+      </footnote>
+      The defendant(s) can also file a counterclaim, asserting claims back against the plaintiff.<footnote id="footnote15">
+        See Rule 13, Fed. R. Civ. P.
+      </footnote>
+      Motions to dismiss may be based on any number of issues—improper jurisdiction (e.g., the court does not have power over the defendant because it does not reside or do business within the geographic jurisdiction of that court), improper venue (e.g.,
+      the defendant does not reside or did not commit any act of infringement in the jurisdiction of the court), failure to state a proper claim, etc.<footnote id="footnote16">
+        See Rule 12(b), Fed. R. Civ. P.
+      </footnote>
+      Such a motion must be accompanied by a legal brief explaining the reasons for the motion, to which the plaintiff can file an opposing brief. The defendant who filed the motion usually has an opportunity to file a reply brief. After the briefing is
+      completed, which can take one to two months, the court will decide the motion with an order, either granting or denying it.
+    </para>
+    <para id="eip-620">Motions to transfer can be filed by a defendant who believes another court would be a “better” place to proceed with the case.<footnote id="footnote17">
+        See 28 U.S.C. §1404(a)
+      </footnote>
+      The factors considered by the court as to whether it or another court is “better” include which court is most convenient in terms of the location of necessary witnesses and/or documents, and whether another court already has experience with the
+      subject matter because a related case is pending or was handled there and it can handle the new case more efficiently. Such motions usually fail, but can delay the progress of the case by several months, sometimes longer, while the court considers
+      how to rule on the motion. The parties must present detailed arguments about why the case should be moved, or not, and often the court will order oral argument during which each party can present its position and answer questions the court may have.</para>
+    <para id="eip-717">If no motions are filed by the defendant(s), or if they are denied, the defendant(s) must file an answer, which responds to the allegations in the complaint and sets forth any defenses the defendant(s) may have.<footnote id="footnote18">
+        See Rules 8-9, Fed. R. Civ. P.
+      </footnote>
+      Such defenses can include that the patent is not infringed, that the patent is invalid, that the defendant has a license, that the plaintiff waited too long to file suit (laches) or misled the defendant into believing he or she would not complain
+      about the alleged infringement (estoppel), that the alleged infringer is entitled to prior user rights,<footnote id="footnote19">
+        35 U.S.C §273, which provides a defense to patent infringement for someone who can prove, by clear and convincing evidence, that they acted in good faith and commercially used the subject matter of the patent in the U.S. at least one year before the
+        effective filing date of the patent or the invention’s first public disclosure.
+      </footnote>
+      or myriad other defenses that may be available.<footnote id="footnote20">
+        See Rules 8-9, and 12, Fed. R. Civ. P.
+      </footnote>
+    </para>
+    <para id="eip-573">The defendant(s) may also file one or more
+      <term>counterclaims</term>, which are essentially new charges filed against the plaintiff.<footnote id="footnote21">
+        See Rule 13, Fed. R. Civ. P.
+      </footnote>
+      If such counterclaims are related to the subject matter of the initial case, they may be tried at the same time. If not, they may be severed and tried separately, either before or after the initial case.</para>
+    <para id="eip-600">The plaintiff has an opportunity to file a reply to the answer and an answer to any counterclaim that the defendant(s) file.<footnote id="footnote22">
+        See Rule 7, Fed. R. Civ. P.
+      </footnote>
+      If a counterclaim is filed, followed by an answer, then the defendant(s) can file a reply to the plaintiff’s answer.<footnote id="footnote23">
+        See Rules 8 and 13, Fed. R. Civ. P.
+      </footnote>
+    </para>
+    <para id="eip-648">Once these initial pleadings are filed, which usually takes about 60 days from when the initial complaint is filed, the case is considered “at issue” and the pretrial proceedings commence.</para>
+    <para id="eip-971">Defendants in patent cases are increasingly turning to a strategy of filing requests for
+      <term>post-grant review</term>
+      in the PTO to derail a patentee’s efforts to enforce the patent. Although beyond the scope of this chapter, a post-grant review essentially asks the PTO to take another look at whether the patent is valid, i.e., whether it should have been granted in
+      the first place. The requestor of any post-grant review must present supporting evidence to show that some issue renders one or more of the patent’s claims invalid. The post-grant review request can be either
+      <term>ex parte reexamination</term>
+      (meaning the patentee does not get to participate) or
+      <term>inter partes review</term>
+      (in which the patentee is allowed to participate), or
+      <term>covered business methods review</term>
+      (to review patents that claim a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or management of a financial product or service). Complex rules govern these proceedings, and
+      they changed in 2011 under the
+      <term>America Invents Act (AIA)</term>, which substantially revised the nation’s patent laws in a number of important ways.<footnote id="footnote24">
+        See the PTO’s discussion of the AIA at
+        http://www.uspto.gov/aia_implementation/index.jsp.
+      </footnote>
+    </para>
+    <para id="eip-972">The significance to a patentee of an opponent requesting post-grant review is twofold. First, the patentee risks losing its patent if the PTO finds it is invalid, and this is exactly what has happened in a majority of
+      <emphasis effect="italics">inter partes review</emphasis>
+      hearings as of March, 2016. Second, a defendant requesting post-grant review usually asks the court to
+      <term>stay</term>
+      (i.e., temporarily suspend) the patent case filed against it while the PTO evaluates the patent, arguing that the result of the PTO’s actions may either invalidate or modify the patent such that the court should await the outcome before proceeding
+      with the litigation. This strategy has been successful in many courts.</para>
+    <section id="eip-13" class="assessment-questions">
+      <exercise id="eip-174">
+        <problem id="eip-265">
+          <para id="eip-226">Which of the following is NOT a valid reason for filing a motion to dismiss once a suit is filed in a federal court?</para>
+            <list id="eip-id4605332" list-type="enumerated" number-style="upper-alpha">
+              <item>Improper jurisdiction.</item>
+              <item>Improper venue.</item>
+              <item>Improper (or invalid) patent.</item>
+              <item>Failure to state a proper claim.</item>
+            </list>
+        </problem>
+        <solution id="eip-945">
+          <para id="eip-946">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-653">
+        <problem id="eip-556">
+          <para id="eip-459">Which of the following is NOT a possible defense in a defendant’s answer to a claim?</para>
+            <list id="eip-id7449272" list-type="enumerated" number-style="upper-alpha">
+              <item>The patent is invalid.</item>
+              <item>The patent is not infringed.</item>
+              <item>The plaintiff waited too long to file suit.</item>
+              <item>The patent covers a nonessential part of the allegedly infringing product.</item>
+            </list>
+        </problem>
+        <solution id="eip-947">
+          <para id="eip-948">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-86">
+        <problem id="eip-401">
+          <para id="eip-424">Why have defendants increasingly turned to post-grant review proceedings at the PTO, such as
+            <emphasis effect="italics">inter partes review</emphasis>, since the America Invents Act was passed in 2011?</para>
+            <list id="eip-id1171490924915" list-type="enumerated" number-style="upper-alpha">
+              <item>The PTO is less likely to judge that a patent has been infringed.</item>
+              <item>It's quicker than waiting for a trial.</item>
+              <item>The PTO has shown a strong likelihood of finding challenged patents invalid.</item>
+            </list>
+        </problem>
+        <solution id="eip-949">
+          <para id="eip-950">C.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+
+</document>

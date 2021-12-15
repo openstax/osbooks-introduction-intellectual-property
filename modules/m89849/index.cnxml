@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Right to Enforce Patents</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89849</md:content-id>
+  <md:title>The Right to Enforce Patents</md:title>
+  <md:abstract/>
+  <md:uuid>554f1b05-1c47-4db1-8a96-6b71a2ad7dfe</md:uuid>
+</metadata>
+
+<content>
+
+  <figure id="blind-justice">
+    <media id="figure-blind-justice" alt="An image of a statue depicting justice, with arms outstretched.">
+      <image mime-type="image/jpeg" src="../../media/IP_Figure_02_01_003.jpg"/>
+    </media>
+    <caption>The statue of Blind Justice in front of the Albert V. Bryan United States Courthouse in Alexandria, Virginia. (credit: Tim Evanson via flickr / CC BY 2.0)</caption>
+  </figure>
+
+    <section id="eip-159" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-3952">After completing this section, you will be able to</para>
+      <list id="eip-160">
+        <item>Understand the basic rights of patent owners.</item>
+        <item>Gain an appreciation of the complex process of patent litigation.</item>
+      </list>
+    </section>
+    <section id="eip-17223">
+      <para id="eip-395">Patents issued by the United States Patent and Trademark Office (USPTO) can be enforced by their owners in U.S. federal courts. The USPTO is responsible only for examining and issuing patents—it does not enforce them. It is up to the owner of the patent to enforce it against infringers by filing a civil case in federal court for patent infringement.</para>
+      <para id="eip-172">A patent owner is called the “patentee.” The patentee has the statutory right to exclude others from making, using, offering for sale, selling, or importing the invention covered by the patent throughout the United States.<footnote id="footnote1">35 U.S.C. §154(a)(1).</footnote>ecall that these are rights to exclude others from using the patentee’s invention. The Patent Act does not grant the patent owner the right to practice the invention covered by the patent. Indeed, it may be that the invention, if practiced in the United States, could infringe someone else’s patent! For example, if you obtain a patent on an improvement to a patented product (e.g., a faster-acting version of a patented painkiller), you might not be able to sell the improved product unless you obtain a license under the patent for the underlying product.</para>
+      <para id="eip-32">Infringement is a <term>strict liability violation</term>—you do not need to know that you are infringing a patent, or that a patent even exists, to be liable for patent infringement. If someone makes, uses, offers for sale, sells, or imports what is covered by a claim of a valid patent, that person is an infringer. Neither lack of knowledge of the patent, nor lack of intent to infringe it, is a defense to patent infringement. <footnote id="footnote2">35 U.S.C. §271(a). An exception, where lack of knowledge may be a defense, is indirect infringement, of which there are two principal types: (1) actively inducing someone else to infringe, which requires knowledge of the patent and an intent to cause the infringement (35 U.S.C. §271(b)), and (2) contributing to someone else’s infringement, which requires selling or offering for sale a component to a patented combination knowing that it is specially made or adapted for use as a material part of an infringing combination and that it is not suitable for substantial noninfringing use. 35 U.S.C. §271(c).</footnote>
+    </para>
+    <para id="eip-183">Enforcing a patent is almost invariably a long and expensive process. The first step is to decide whether someone is infringing your patent—i.e., making, using, selling, offering to sell, or importing your invention without your permission. To decide whether someone is infringing your patent, the elements of each claim of the patent must be compared with the elements of the potential infringer’s device or process. If the elements of a patent claim match (or “read on”) the elements of the device or process, an infringement has occurred.</para>
+
+    <figure id="velvet-patent">
+      <media id="figure-velvet-patent" alt="An illustration from a velvet fabric patent. It was filed in 1952. It shows how the fabric is connected and created.">
+        <image mime-type="image/jpeg" src="../../media/IP_Figure_02_01_001.jpg"/>
+      </media>
+      <caption>Patent for velvet type fabric and method of producing same (credit: USPTO doc ID 02717437 / )</caption>
+    </figure>
+
+    <para id="eip-465">Even if some elements of a claim do not literally read on the infringing device, but are sufficiently equivalent in what the device does and how the device does it, they may nevertheless be infringed under the legal rule called the “<term>doctrine of equivalents</term>.”This doctrine prevents an infringer from copying the essence of the invention, but making insignificant modifications in an effort to avoid infringement. If the accused device or process performs substantially the same function in substantially the same way and yields substantially the same result, infringement exists so long as any differences between the claim elements and the accused device are not substantial. A patent calling for an “adhesive” connection (describing glue as the preferred adhesive) could be infringed by a device using a hook-and-loop fastener(e.g.,Velcro). That’s because the hook-and-loop fastener arguably performs substantially the same adhesive function in substantially the same way and with substantially the same result as the glue adhesive.</para>
+
+    <figure id="wiper-patent">
+      <media id="figure-wiper-patent" alt="A drawing from a windshield wiper patent application. The image depicts the mechanism underneath the hood of the car, which has a few mechanisms and cables or tubes connected to the wipers.">
+        <image mime-type="image/jpeg" src="../../media/IP_Figure_02_01_002.jpg"/>
+      </media>
+      <caption>Patent for windshield wiper system with intermittent operation. (credit: USPTO doc ID 03351836 / )</caption>
+    </figure>
+
+    <para id="eip-58">If a patent owner believes their patents are being infringed, the person typically hires a patent trial lawyer who specializes in enforcing patents. Often, but not always, this is a different person at a different law firm than the lawyer or agent who previously assisted the inventor(s) in obtaining a patent from the USPTO. Once the patent trial lawyer is retained, that lawyer will evaluate the patent and the accused device or process, and will provide the patentee a legal opinion about whether or not an infringement exists. If an infringement is found, the patentee then must decide how to proceed. Several options exist.</para>
+    <list id="eip-id11719083972651">
+      <title>Options for Pursuing a Patent Infringement Claim</title>
+      <item>Demand that the alleged infringer stop infringing, and pay damages for past infringement.</item>
+      <item>Offer the alleged infringer a license to practice your invention for money, called a “<term>royalty</term>.”</item>
+      <item>Ignore the infringement, or postpone any action for a time.</item>
+      <item>File a patent infringement lawsuit in federal court against the alleged infringer.</item>
+    </list>
+    <para id="eip-863">Each option has benefits and risks, which should be carefully considered before proceeding.</para>
+  </section>
+  <section id="eip-10" class="assessment-questions">
+    <exercise id="eip-171">
+      <problem id="eip-823">
+        <para id="eip-96">Responsibility for legally enforcing patents rests with which of the following bodies?  <list id="eip-id1171908397265" list-type="enumerated" number-style="upper-alpha">
+          <item>The U.S. Patent and Trademark Office (USPTO)</item>
+          <item>The U.S. Department of Justice.</item>
+          <item>The owner of the patent, suing in a federal civil lawsuit.</item>
+        </list>
+      </para>
+    </problem>
+    <solution id="eip-571">
+      <para id="eip-125">C.</para>
+    </solution>
+  </exercise>
+  <exercise id="eip-59">
+    <problem id="eip-602">
+      <para id="eip-869">Patent owners have which of the following rights under the law?</para>
+      <list id="eip-id1172397142217" list-type="enumerated" number-style="upper-alpha">
+        <item>The exclusive right to “practice” the patent—meaning the exclusive right to make or sell products based on the patent.</item>
+        <item>The right to exclude others from making, using, offering for sale, selling, or importing the invention covered by the patent throughout the United States.</item>
+        <item>Both of these.</item>
+      </list>
+    </problem>
+    <solution id="eip-534">
+      <para id="eip-149">B.</para>
+    </solution>
+  </exercise>
+  <exercise id="eip-921">
+    <problem id="eip-123">
+      <para id="eip-798">Which of the following is required in order to infringe a patent?</para>
+      <list id="eip-id1163796760182" list-type="enumerated" number-style="upper-alpha">
+        <item>Intending to infringe the patent.</item>
+        <item>Making, using, or selling the patented invention without authorization.</item>
+        <item>Knowing that the patent exists.</item>
+      </list>
+    </problem>
+    <solution id="eip-306">
+      <para id="eip-878">B.</para>
+    </solution>
+  </exercise>
+  <exercise id="eip-754">
+    <problem id="eip-469">
+      <para id="eip-615">Which of the following is the legal definition of patent infringement?</para>
+      <list id="eip-id1163875572228" list-type="enumerated" number-style="upper-alpha">
+        <item>One or more of a patent’s claims match (or “read on”) the features and functions of a device or process.</item>
+        <item>A device or process that performs a “substantially similar” functions to those described in a patent’s claims.</item>
+        <item>Both of the above are correct.</item>
+      </list>
+    </problem>
+    <solution id="eip-442">
+      <para id="eip-517">A.</para>
+    </solution>
+  </exercise>
+  <exercise id="eip-755">
+    <problem id="eip-470">
+      <para id="eip-616">Which of the following illustrates the “doctrine of equivalents”?</para>
+      <list id="eip-id1163875572229" list-type="enumerated" number-style="upper-alpha">
+        <item>If a device performs substantially the same function in substantially the same way as your patent claim, infringement exists if any differences are insignificant.</item>
+        <item>A patent calling for an “adhesive” connection (describing glue as the preferred adhesive) may be infringed by a device using a Velcro® fastener.</item>
+        <item>Both of the above are correct.</item>
+      </list>
+    </problem>
+    <solution id="eip-443">
+      <para id="eip-518">C.</para>
+    </solution>
+  </exercise>
+</section>
+</content>
+</document>

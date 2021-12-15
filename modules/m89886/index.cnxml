@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Trade Secret Protection</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89886</md:content-id>
+  <md:title>Trade Secret Protection</md:title>
+  <md:abstract/>
+  <md:uuid>4c39c7a9-5e40-4c9c-b8fe-b5f5dba6d751</md:uuid>
+</metadata>
+
+<content>
+
+  <figure id="coke-ad">
+    <media id="eip-coke-ad" alt="An advertisement for Coca Cola that reads Secret Ingredients, that's the secret. Open Happiness.">
+      <image mime-type="image/jpeg" src="../../media/IP_Figure_05_01_001.jpg"/>
+    </media>
+    <caption>(credit: modification of work by Michael Galpert via flickr / CC BY 2.0)</caption>
+  </figure>
+
+
+    <section id="eip-132" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-123">After completing this section, you will be able to</para>
+      <list id="eip-662">
+        <item>Define trade secrets.</item>
+        <item>Identify the advantages and disadvantages of protecting intellectual property through trade secrets.</item>
+      </list>
+    </section>
+    <section id="eip-213">
+      <title>What Is a Trade Secret?</title><para id="eip-21">
+      <term>Trade secret</term>
+      law is a source of protection for intellectual property that serves as an alternative to patent or trademark law. Whereas patent and trademark law require that the intellectual property to be protected be publicly “disclosed” (for example, through a
+      patent application), trade secret law requires precisely the opposite—that is, that the intellectual property to be protected
+      <emphasis effect="italics">not</emphasis>
+      be publicly disclosed. The subject matter of a trade secret may be virtually any information that is of value as a result of not being generally known.</para>
+    <para id="eip-793">There is enormous
+      <term>economic value</term>
+      in trade secrets—for companies and countries. A study released in March of 2014 estimated that trade secret misappropriation costs the world’s top 40 economies between 1 percent and 3 percent of their gross domestic product each year.<footnote id="footnote1">
+        “<emphasis effect="italics">Economic Impact of Trade Secret Theft</emphasis>,”
+        PricewaterhouseCoopers, retrieved from:
+        http://pwc.to/1sVx3AP
+      </footnote>
+    </para>
+    <para id="eip-244">Unlike copyright and patent law, there is no formal requirement of “novelty” or “tangibility” under trade secret law. Rather, trade secret protection is extended to information that has independent economic value by virtue of not
+      being generally known or readily ascertainable by others, and which has been subject to reasonable efforts to avoid public disclosure.</para></section>
+    <section id="eip-8123">
+      <title>Advantages and Disadvantages of Trade Secret Law</title><para id="eip-812">
+      There are both advantages and disadvantages to protecting intellectual property through the use of trade secret law. The decision of whether to use trade secret law as opposed to other legal means of protecting knowledge or information is governed
+      primarily by the nature of the intellectual property to be protected.
+    </para></section>
+    <section id="eip-4483">
+      <title>Advantages</title><para id="eip-448">
+      One of the main advantages of trade secret law is that it provides indefinite future protection. Unlike the 20-year time limit that underlies the protection granted to a patent holder, there is no definite time limit placed on the protection granted
+      to a trade secret owner. This indefinite future protection granted to trade secrets is appealing, assuming that the intellectual property to be protected is likely to remain generally unknown well into the future. For example, if the intellectual
+      property to be protected is a method of manufacturing a product that can be determined from examining the product, then the best way to protect the new method of manufacture might be through a patent. On the other hand, if the new method of
+      manufacturing the product cannot be determined from examination of the product, then the best way to protect the intellectual property might be to treat it as a trade secret.</para></section>
+    <section id="eip-8133">
+      <title>Disadvantages</title><para id="eip-813">
+      Although there is no definite expiration of the protection granted to trade secrets, the protection prohibits only the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence. Unlike patent law, trade secret law
+      does not offer any affirmative protection against the use of the same intellectual property that is independently derived or reverse engineered by a competitor. Consequently, if the intellectual property to be protected is a new method of
+      manufacturing a product, and if that method of manufacture is ascertainable from an examination of the product, then the best form of protection for the intellectual property is most likely that offered by patent law.</para>
+    <para id="eip-986">The same analysis applies to intellectual property that is likely to be independently derived by a competitor. For as the U.S. Supreme Court noted in
+      <link url="https://www.openstax.org/l/BonitoVThunderCraft">
+        <emphasis effect="italics">Bonito Boats v. Thunder Craft Boats</emphasis>
+      </link>,<footnote id="footnote2">
+        489 U.S. 141 (1989).
+      </footnote>
+      state trade secret law has never given the holder of a trade secret protection against reverse engineering by the public or a competitor. The Supreme Court commented that in order to receive protection from reverse engineering, the holder of the
+      intellectual property must seek the protection of federal patent law.
+    </para>
+    <table id="eip-106" class="top-titled" summary="Pros and cons of trade secret law.">
+<tgroup cols="2">
+  <colspec colnum="1" colname="c1"/>
+  <colspec colnum="2" colname="c2"/>
+  <thead>
+    <row>
+      <entry namest="c1" nameend="c2">Pros and Cons of Trade Secret Law</entry>
+    </row>
+    <row>
+      <entry>Pros</entry>
+      <entry>Cons</entry>
+    </row>
+  </thead>
+  <tbody>
+<row>
+  <entry>Trade secret law provides indefinite future protection, so long as the trade secret stays a secret. Trade secret protection has no expiration date.</entry>
+  <entry>If someone came up with the same idea on their own, the trade secret is no longer protected by law.</entry>
+</row>
+<row>
+  <entry>Trade secret protection prevents the disclosure or use of the trade secret by one to whom the secret was disclosed in confidence.</entry>
+  <entry>Trade secret law does not give the holder of a trade secret protection from reverse engineering by the public or a competitor.</entry>
+</row>
+        </tbody>
+
+
+</tgroup>
+</table><para id="eip-532">Whereas patent and trademark law involve an affirmative assertion of an intellectual property right, trade secret law only actively operates after a misappropriation or threatened misappropriation of the trade secret has occurred.
+      Due to this difference in the way trade secret law protects intellectual property, the protections given to trade secrets are largely dependent on classifications of information made by courts. Thus, the foundation and development of trade secret law
+      in the United States is inherently tied to the statutes protecting trade secrets, and the court decisions defining and interpreting the statutory protections created for trade secrets.</para></section>
+    <section id="eip-41" class="assessment-questions">
+      <exercise id="eip-537">
+        <problem id="eip-566">
+          <para id="eip-628">Unlike patents and trademarks, the law requires that intellectual property consisting of trade secrets not be publicly disclosed. True or False?</para>
+            <list id="eip-id1165823306933" list-type="enumerated" number-style="upper-alpha">
+              <item>True.</item>
+              <item>False.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-563">
+          <para id="eip-902">A.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-579">
+        <problem id="eip-150">
+          <para id="eip-340">Which of the following best describes a trade secret?</para>
+            <list id="eip-id8544500" list-type="enumerated" number-style="upper-alpha">
+              <item>Information that many people do not know about how a product like a smartphone is made.</item>
+              <item>Virtually any information that is of value as a result of not being generally known.</item>
+              <item>Any information relating to the finances of a publicly held company.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-519">
+          <para id="eip-208">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-391">
+        <problem id="eip-153">
+          <para id="eip-564">Trade secret theft or misappropriation costs the world’s richest 40 nations approximately how much of their gross domestic product, or GDP, each year?</para>
+            <list id="eip-id1170505638034" list-type="enumerated" number-style="upper-alpha">
+              <item>1 to 3 percent.</item>
+              <item>4 to 6 percent.</item>
+              <item>7 to 10 percent.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-25">
+          <para id="eip-247">A.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-79">
+        <problem id="eip-678">
+          <para id="eip-685">What are the two main requirements for information to be protectable as a trade secret?</para>
+            <list id="eip-id1166285759366" list-type="enumerated" number-style="upper-alpha">
+              <item>It must be novel and non-obvious.</item>
+              <item>It must be original and expressed in a tangible form that can be seen or copied.</item>
+              <item>It must be not generally known by others, and it must have been subject to reasonable efforts to avoid public disclosure.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-943">
+          <para id="eip-172">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-674">
+        <problem id="eip-607">
+          <para id="eip-299">What is one key advantage of trade secret protection versus patent protection?</para>
+            <list id="eip-id4951439" list-type="enumerated" number-style="upper-alpha">
+              <item>It protects the information to be kept secret indefinitely.</item>
+              <item>It prevents others from ever independently deriving the same information.</item>
+              <item>Both of the above are correct.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-876">
+          <para id="eip-222">A.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-13">
+        <problem id="eip-444">
+          <para id="eip-545">If you invent faster-than-light travel but believe someone will be able to reverse engineer it by examining your starship, should you patent it or keep it as a trade secret?</para>
+            <list id="eip-id1171119933343" list-type="enumerated" number-style="upper-alpha"><item>Keep it as a trade secret.</item>
+              <item>Patent it.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-615">
+          <para id="eip-645">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-35">
+        <problem id="eip-899">
+          <para id="eip-157">What did the Supreme Court note in the case of
+            <emphasis effect="italics">Bonito Boats v. Thunder Craft Boats</emphasis>?</para>
+            <list id="eip-id1168440943101" list-type="enumerated" number-style="upper-alpha">
+              <item>One cannot legally misappropriate trade secrets.</item>
+              <item>Nobody is above the law, not even a trade secret owner.</item>
+              <item>The holder of a trade secret does not have protection against reverse engineering.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-488">
+          <para id="eip-428">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-721">
+        <problem id="eip-805">
+          <para id="eip-684">If information is protected as a valid trade secret, a competitor can be stopped from using it no matter who he obtained it from. True or False?</para>
+            <list id="eip-id1165589909249" list-type="enumerated" number-style="upper-alpha">
+              <item>True.</item>
+              <item>False.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-968">
+          <para id="eip-12">B.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+
+</document>

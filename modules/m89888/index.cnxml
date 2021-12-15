@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Elements of a Trade Secret</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89888</md:content-id>
+  <md:title>Elements of a Trade Secret</md:title>
+  <md:abstract/>
+  <md:uuid>5dd544d3-32b3-4a72-a850-b9d55585a9de</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-995" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-126">After completing this section, you will be able to</para>
+      <list id="eip-347">
+        <item>Identify the key criteria used to qualify as a trade secret.</item>
+        <item>Explain how ideas can be protected as trade secrets.</item>
+      </list>
+    </section>
+    <para id="eip-610">
+      To qualify as a trade secret, the information in question must meet two essential criteria. First, the information must attain its value from the fact that it is not generally known.</para>
+    <para id="eip-155">Second, the owner of that information must take reasonable efforts to maintain its secrecy. Absent these two elements, information does not qualify as a trade secret and is not entitled to trade secret protections that prevent or
+      remedy misappropriation under the UTSA.<footnote id="footnote5">
+        The UTSA defines a trade secret as “information, including a formula, pattern, compilation, program, device, method, technique, or process, that (i) derives independent economic value, actual or potential, from not being generally known to, and not
+        being readily ascertainable by proper means by, other persons who can obtain value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.”
+      </footnote>
+    </para>
+    <para id="eip-547">Trade secrets are not limited to particular subject matters, although the knowledge or information to be protected need not take any particular form. A trade secret can be information or knowledge in the form of a formula, pattern,
+      compilation, program, device, method, technique, or process. Although the UTSA defines what may be a trade secret, various courts interpreting the UTSA have come to different conclusions on what type of material should be considered a trade secret.
+      For example, whereas courts have found that an insurer’s database is a trade secret under Wisconsin law, a similar database was found not to be a trade secret in Rhode Island.<footnote id="footnote6">
+        Compare <emphasis effect="italics">American Fam. Mut. Ins. Co. v. Roth</emphasis> 485 F.3d 930, 933 (7th Cir. 2007); <emphasis effect="italics">APG Inc. v. MCI Telecommunications Corp.</emphasis> 436 F.3d 294, 307 (1st Cir 2006).
+      </footnote>
+      </para>
+    <section id="eip-7363">
+      <title>The Value of Secrets</title><para id="eip-736">
+      For information or knowledge in any of the above forms to be considered a trade secret, it must derive independent economic value because it is not generally known to, nor readily ascertainable by, other persons who can profit from its disclosure or
+      use. Some examples of information courts have found to be trade secrets include computer software, sales information, customer information, and manufacturing formulas. However, merely because information is not known to the public does not
+      necessarily make the information a trade secret. For example, information that is not generally known by the public but is known by different manufacturers in the same industry likely does not qualify as a trade secret.<footnote id="footnote7">
+        See e.g. <emphasis effect="italics">Ruckelshaus v. Monsanto Co.</emphasis>, 467 U.S. 986, 1002 (1984); <emphasis effect="italics">Speedry Chemical Products, Inc. v. Carter’s Ink Co.</emphasis>, 306 F.2d 328, 331 (2d Cir 1962).
+      </footnote>
+    </para>
+    <para id="eip-420">Material that is ascertainable through public sources generally does not derive independent economic value justifying trade secret protection. If the information in question cannot be quickly or easily ascertained from examining or
+      testing the publicly available product, then it is more likely to be a trade secret.<footnote id="footnote8">
+        See <emphasis effect="italics">Morlife, Inc. v. Perry</emphasis>, 56 Cal. App. 4th 1514 (1st Dist. 1997).
+      </footnote>
+
+      Conversely, if the information may be discovered through public observation of the product or the company’s displays, it is unlikely to be a trade secret.<footnote id="footnote9">
+        See <emphasis effect="italics">MicroStrategy Inc. v. Business Objects</emphasis>, S.A., 331 F. Supp. 2d 396,417 (E.D. Va. 2004).
+      </footnote>
+
+      For example, customer lists are not considered trade secrets when the identity of the customers could potentially be discovered through public sources. However, identical information if not available through public sources could constitute a trade
+      secret.<footnote id="footnote10">
+        Compare <emphasis effect="italics">Inflight Newspapers, Inc. v. Magazines In-Flight, LLC,</emphasis> 990 F. Supp. 119, 129-30 (E.D.N.Y. 1997) (holding that the plaintiff’s customer lists were not trade secrets because the customer identity could be easily found through publicly available
+        means, such as the Internet, trade shows, and trade directories) with <emphasis effect="italics">North Atl. Instruments, Inc. v. Haber</emphasis>, 188 F.3d 38, 44 (2d Cir. N.Y. 1999) (finding that a customer list kept in confidence may be treated as a trade secret).
+      </footnote>
+
+      Additionally, processes or systems that are simply a compilation of known information generally do not rise to the level of trade secrets. The courts, however, are still quite divided on this issue.
+
+
+    </para>
+
+    <figure id="pencil-paper">
+      <media id="eip-pencil-paper" alt="A pencil lays on a spreadsheet.">
+        <image mime-type="image/jpeg" src="../../media/IP_Figure_05_03_001.jpg"/>
+      </media>
+      <caption>(credit: modification of work by Nial Bradshaw via flickr / CC BY 2.0)</caption>
+    </figure>
+
+
+  </section>
+    <section id="eip-4772">
+      <title>Protecting Ideas as Trade Secrets</title><para id="eip-477">
+      In addition to information, certain ideas may constitute trade secrets. Although ideas were not protected as trade secrets under common law, the UTSA provides protection for certain novel and concrete ideas. For example, remedies for misappropriation
+      of an idea may be permitted based on the existence of a confidential relationship. The elements that must be proven under this common theory are: (1) a novel or original idea; (2) reduced to concrete form; (3) disclosed to the defendant in a
+      confidential relationship, i.e., one in which it would be implied that use would not be made without compensation; and, (4) used by the defendant.
+    </para>
+    <para id="eip-375">Protection of an idea may also be permitted on the basis of a contractual relationship with the defendant. Parties may enter into a contract to protect an idea being submitted or disclosed to another person or company. The major
+      benefit of a contract to the submitter of an idea is evidence of a protected disclosure that is deserving of trade secret protections. The major benefit of a contract to the recipient of an idea is the establishment of the ground rules under which
+      compensation, if any, will be payable to the submitter.</para>
+    <para id="eip-136">Corporations that receive unsolicited ideas many times grapple with how to best protect use of those unsolicited ideas. To protect themselves from the uncertainties of trade secrets law, the idea must be converted from an
+      unsolicited idea to a solicited idea. This may be accomplished by contacting the submitter and alerting them that the idea will be considered only with the understanding that the use of the idea, and decisions regarding compensation for that idea,
+      rest solely with the corporation.</para>
+    <para id="eip-826">Whether the trade secret takes the form of information or an idea, the owner of that trade secret must show not only that the trade secret was not generally known or readily ascertainable, but also that the lack of general
+      knowledge of the trade secret conferred some value to the owner. When the owner derives a profit from licensing the use of the protected information, the value to the owner is quite apparent. However, in cases where the owner is seeking to show he
+      was injured in the marketplace or through the loss of profits after costly research and development, the value may only become apparent by inference. But even if information is not generally known and gives the owner some value, the information is
+      not a trade secret unless the owner takes steps to protect the secrecy of the information.
+    </para></section>
+    <section id="eip-43" class="assessment-questions">
+      <exercise id="eip-373">
+        <problem id="eip-508">
+          <para id="eip-621">Which of the following could be considered a trade secret so long as reasonable steps had been taken to prevent its disclosure?</para>
+            <list id="eip-id1168443045669" list-type="enumerated" number-style="upper-alpha">
+              <item>Sales information.</item>
+              <item>Customer lists.</item>
+              <item>Manufacturing techniques.</item>
+              <item>All of the above.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-881">
+          <para id="eip-852">D.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-681">
+        <problem id="eip-427">
+          <para id="eip-366">Is information not known to the public considered to be a trade secret?</para>
+            <list id="eip-id1168398" list-type="enumerated" number-style="upper-alpha">
+              <item>Yes.</item>
+              <item>No.</item>
+              <item>It depends.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-392">
+          <para id="eip-170">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-595">
+        <problem id="eip-668">
+          <para id="eip-204">Would a customer list always be considered a trade secret?</para>
+            <list id="eip-id1170507543683" list-type="enumerated" number-style="upper-alpha">
+              <item>It depends on whether the customers want to be identified or not.</item>
+              <item>To be considered a trade secret, the names of customers must not be available or discernable through public sources.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-266">
+          <para id="eip-91">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-3">
+        <problem id="eip-701">
+          <para id="eip-478">Can a mere idea be considered a trade secret?</para>
+            <list id="eip-id1171136765769" list-type="enumerated" number-style="upper-alpha">
+              <item>No. Just as you cannot patent or copyright a mere idea, you cannot protect a mere idea with a trade secret.</item>
+              <item>Yes. Under the Uniform Trade Secrets Act, even an idea can sometimes be considered a trade secret.</item>
+            </list>
+        </problem>
+
+        <solution id="eip-774">
+          <para id="eip-840">A.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+</document>

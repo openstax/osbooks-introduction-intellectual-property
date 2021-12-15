@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Criteria for Patenting</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m89844</md:content-id>
+  <md:title>Criteria for Patenting</md:title>
+  <md:abstract/>
+  <md:uuid>7f01c964-72fd-437a-96f9-a78ed89853dc</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-969" class="learning-objectives">
+      <title>Learning Objectives</title>
+      <para id="eip-7822">After completing this section, you will be able to</para>
+      <list id="eip-944">
+        <item>Identify the criteria that an invention must meet to earn a patent.</item>
+        <item>Understand why non-obviousness is the most difficult hurdle to overcome.</item>
+      </list>
+    </section>
+    <section id="eip-7823">
+      <title>Can I Patent That?</title><para id="eip-782">Before reading this section, please watch the overview video below covering what you can and cannot patent. You can’t patent an idea (like an idea for a better mousetrap), only an application of that idea in a practical invention. Novelty, utility, and non-obviousness—the holy trinity of patents.</para>
+
+      <media id="youtube-CIPT" alt="YouTube Video: Can I Patent That?">
+      <iframe width="660" height="371.4" src="https://openstax.org/l/CanIPatent"/>
+      </media>
+
+
+    <para id="eip-70">Now that you’ve learned what can be patented and what cannot, we will next examine the criteria for determining if a patent-eligible invention actually merits one. These criteria center around three concepts mentioned in the
+      previous section and enumerated in the Patent Act: novelty, utility, and non- obviousness.<footnote id="footnote49">
+        35 U.S.C.§101, §102, and §103
+      </footnote>
+    </para>
+    <para id="eip-730">Let’s discuss these three concepts in greater detail.</para></section>
+    <section id="eip-8453">
+      <title>Novelty</title><para id="eip-845">The requirement in Sections 101 and 102 of the Patent Act for novelty in an invention means that to qualify for a patent, a machine, manufacture, process, or composition of matter must not have been previously described or known. Specifically, it must not have been patented, described in an unpublished or published
+      patent application, explained in a printed publication such as an article or technical paper, or publicly known prior to the filing date of the new patent application. In addition, it must not have been published, used in public, or offered for sale by the applicant or their colleagues more than 12 months prior to the filing of a patent application.</para>
+
+      <figure id="dog-ear-protector">
+        <media id="figure-dog-ear-protector" alt="An image of a patent for dog ear protectors. They are cylinders that go around a dogs ears to keep the hair from dangling down. The text indicates that they are designed to keep a dog's hair clean while eating. ">
+          <image mime-type="image/png" src="../../media/IP_Figure_01_07_001.png"/>
+        </media>
+        <caption>Patent for dog ear protectors designed to keep a dog's hair clean while eating. (creadit: USPTO via uspto.gov / Public domain)</caption>
+      </figure>
+
+    <para id="eip-842">If any of the above is true of an invention, it is said to have been “anticipated” and cannot be patented. These novelty requirements exist whether the “prior art”—the catchall term for any previous patent, publication, or use—is domestic or foreign.</para>
+    <para id="eip-150">This does not mean, of course, that your faster-than-light warp drive is unpatentable simply because it was envisioned in a general way in episodes of
+      <emphasis effect="italics">Star Trek</emphasis>
+      and its successors’ television shows, and in many
+      <emphasis effect="italics">Star Trek</emphasis>
+      books.</para>
+    <para id="eip-947">“It is not enough that an invention be suggested by the literature,” explains the eminent New York University scholar Arthur R. Miller and his coauthor Michael H. Davis’ in their textbook for law students.<footnote id="footnote50">
+        Op. cit., Miller &amp; Davis.
+      </footnote>
+      “Nor is it sufficient that the literature made the invention inevitable—that bears on the question of non-obviousness. The test, with one major exception, is whether enough of the invention has been disclosed to enable a person skilled in the
+      applicable art to duplicate the product or process.”</para>
+    <para id="eip-945">That one exception, writes Miller and Davis, is public use of the invention. In that case, even a limited disclosure that does not reveal the secrets of the invention can still foreclose a patent if the public use of it “discloses
+      the invention’s benefits.”</para></section>
+    <section id="eip-4143">
+      <title>Prior Art Must Be Enabling</title><para id="eip-414">In the era of social media, the previously mentioned requirements could pose a novelty barrier if not handled properly.</para>
+    <para id="eip-833">For instance, if you develop a new watch that displays information from an iPhone, and then disclose it on the crowdsourced funding site Kickstarter in order to raise capital from thousands of small-time investors, then you will
+      probably want to file a patent application prior to, or certainly no later than a year after, your disclosure of the benefits of your watch to the public.</para>
+    <para id="eip-627">But in the absence of such public use, disclosure in prior art must be substantial and enabling to be disqualifying.</para>
+    <para id="eip-755">As patent attorney and writer of the widely read
+      <emphasis effect="italics">IP Watchdog</emphasis>
+      blog Gene Quinn explains:</para>
+      <quote id="eip-id3430252"><para id="eip-id34302522">
+        “What <emphasis effect="italics">Star Trek</emphasis> teaches is the idea of warp speed wit some suggested articulation of how it could be achieved. But that’s not informing enough. Someone could not make and use the device based on what is taught in <emphasis effect="italics">Star Trek</emphasis>. So if you actually figure out how to make a faster-than-light warp drive work—and can describe it sufficiently so that someone skilled in the science of space propulsion could build it—then yes, it would be patentable.” Take heart, <emphasis effect="italics">Star Trek</emphasis> fans!</para></quote>
+    </section>
+    <section id="eip-4073">
+      <title>Utility</title><para id="eip-407">As the
+      <emphasis effect="italics">Star Trek</emphasis>
+      example suggests, the novelty issue can also touch on the question of utility—the second patentability criteria. Utility has a special meaning in patent law, which is simply that an invention must function and be of some benefit
+      qualitatively—although no minimum quantum of benefit is necessary. The landscape of business is littered with companies that have invented not very useful or necessary products. But these may satisfy the requirement for utility if at least someone
+      would find them useful.
+    </para>
+    <para id="eip-183">But snake oil medicines and other products that do not work in any meaningful way will not meet the requirement for utility. “The inventor of an ineffective drug may not obtain a patent merely because he convinces gullible patients
+      that it has a non-existent curative effect,” Miller and Davis note. “It is not so much that it lacks a minimum quantum of benefit (the patients may find it subjectively useful), but it is, instead, that it has an impermissible fraudulent quality.”</para>
+
+      <figure id="Rattlesnake_Oil">
+        <media id="figure-Rattlesnake_Oil" alt="A label for Worner's Famous Rattlesnake Oil">
+          <image mime-type="image/png" src="../../media/IP_Figure_01_07_002.png"/>
+        </media>
+        <caption>
+           An ad for Worner's Famous Rattlesnake Oil, circa 1914. (credit: Wormer's Famous Rattlesnake Oil via Wikimedia Commons / Public domain)
+        </caption>
+      </figure>
+
+    <para id="eip-338">Even when no fraud is intended, the utility of a product or process must be demonstrate in a patent application—not presumed, but affirmatively demonstrated. Simply put, the thing or the method you have invented must actually work
+      as it is intended and claimed to work.</para>
+    <para id="eip-206">“Forget
+      <emphasis effect="italics">Star Trek</emphasis>
+      for a moment,” says Quinn. “On a more mundane level, the USPTO used to deny patents for methods and compositions for re-growing hair. These were seen as lacking utility because re-growing hair was believed to be impossible. Finally, someone was able
+      to prove that his method and composition actually re-grew hair on a bald scalp. The patent examiners withdrew their rejection, and patents for such products have issued ever since.”</para>
+    <para id="eip-752">Interestingly, Quinn explains, since the earlier patent applications on hair-growing products didn’t describe anything that actually worked, they could not be used under the novelty bar to block later patent applications for
+      hair-growing products that did work.</para></section>
+    <section id="eip-5783">
+      <title>Non-Obviousness</title><para id="eip-578">An invention may be new. It may also have utility. But to meet the criteria for a patent, it must also be non-obvious under Section 103 of the Patent Act.</para>
+    <para id="eip-864">Let’s now dig deeper into the requirements of the concept of non-obviousness.</para></section>
+    <section id="eip-4583">
+      <title>Requirements</title><para id="eip-458">The requirement for non-obviousness may be illustrated with a fanciful example. If the number 4 were an invented product rather than a mathematical symbol, then even though the number 4 had never been invented before and
+      was thus novel, it would still not be patentable. That’s because someone skilled in the art could have put 2 and 2 together to come up with it.</para>
+    <para id="eip-799">But to offer a more practical example, say you invent a wheeled cart to move office supplies more easily between departments. If this is the first such wheeled office cart in history, you can get a patent for it. But if you then
+      decide, “Hey, why not put those wheels on a chair?” you won’t get a patent for it. That’s because combining two such widely-known and available elements would be obvious to anyone skilled in the art of office furniture design.</para>
+    <para id="eip-918">But things are not so obvious when it comes to inventing a camera phone. Even though it’s composed of well-known and widely-available components, combining the two did satisfy the requirement for non-obviousness because it became
+      more than the sum of its parts and met a large and previously-unfilled need in the marketplace. The millions of people who take selfies everyday is certainly proof of that.</para>
+    <para id="eip-605">There are various ways of presenting evidence that your invention satisfies the non-obvious requirement for patentability. You can demonstrate that the existing elements of your invention, although individually already known, yield
+      an unexpected or hidden result. Or you can show that your invention, although composed of well- known and widely available components, when combined satisfies a long-felt but previously unfilled need in the marketplace, thus indicating its
+      non-obviousness. Both of these demonstrations of non-obviousness apply to the camera phone example above.</para></section>
+    <section id="eip-9733">
+      <title>The One-Click Patent</title><para id="eip-973">Some people criticized the so-called “one-click” patent granted by the USPTO to Amazon.com in 1999 for Amazon’s system enabling customers to buy an item with a single click of the mouse—with the payment information
+      needed to complete the purchase already having been entered by the user previously.</para>
+    <para id="eip-285">They contended that although Amazon might have been the first company to employ the process, it was an obvious and inevitable iteration of already- existing mouse-clicking procedures for making a purchase online. The patent office
+      reexamined the patent, however, and in 2007 upheld the validity and the bulk of its major claims.</para>
+    <para id="eip-329">It is important to note that it’s an invention’s function that is often examined to determine obviousness. “Even though it may be obvious that a certain object can be constructed in a certain way, its utility and novelty may lie in
+      its functional use, not its construction,” write Miller and Davis. “Therefore, the prior art must be used to determine whether the invention’s new and useful function, not its construction, is non-obvious.”</para>
+    <para id="eip-671">During the first half of the twentieth century, the courts often saw an invention as obvious when it lacked a “flash of genius” and was merely an incremental advance over the state of the art as opposed to what they imagined would
+      be a “revolutionary” breakthrough discovery. But that subjective interpretation of inventiveness was overturned by the 1952 Patent Act, which codified a more objective standard—namely, that whether an invention is developed through laborious trial
+      and error or through a eureka flash-of-genius moment has no bearing on its obviousness or non-obviousness.</para></section>
+    <section id="eip-4653">
+      <title>Overcoming Patent Hurdles</title><para id="eip-465">Taken together, the three patenting criteria—novelty, utility, and non-obviousness—function like the obstacles in an Olympic hurdles race. The utility hurdle is easiest to overcome. The novelty hurdle less so.
+      But by far, the highest hurdle facing inventors is non-obviousness.
+    </para>
+    <para id="eip-343">“The vast majority of all rejections at the patent office are for obviousness reasons,” explains retired Chief Judge Paul Michel of the U.S. Court of Appeals for the Federal Circuit, the main court that handles patent appeals. “And
+      it’s not very difficult to see why. Given the millions of patented inventions over the decades, the tens of millions of past and current products on the market, it’s not all that easy to come up with an invention that is not only novel but also truly
+      non-obvious to someone with ordinary skill in the state of the art.”</para>
+    <para id="eip-370">Many believe that the criteria for patenting weakened in the late 1990s and early 2000s, and that as a result, too many poor-quality patents were issued. To the extent this problem exists, one of its likeliest causes is the
+      fivefold increase in patent applications that has taken place over the last 30 years without a commensurate increase in USPTO funding, resources, and capabilities.</para>
+    <para id="eip-757">Despite these challenges, the USPTO has made substantial progress in the last five years in improving examiner training and tools, reducing the backlog of pending applications, and strengthening the quality of the examination
+      process for patent applications. This progress has been made despite oftentimes-unclear or contradictory patentability rulings from the courts.</para>
+    <para id="eip-314">Patent quality is essential to the maintenance of public confidence in the patent system. After all, when property rights (either real or intellectual) are seen as overbroad, ill-defined, or illegitimate, individuals and businesses
+      are more willing to trespass on them.</para></section>
+    <section id="eip-7" class="assessment-questions">
+      <exercise id="eip-582">
+        <problem id="eip-866">
+          <para id="eip-445">Which of the following is NOT a requirement for patent eligibility?</para>
+            <list id="eip-id1169834581636" list-type="enumerated" number-style="upper-alpha">
+              <item>Novel.</item>
+              <item>Revolutionary.</item>
+              <item>Non-obvious.</item>
+              <item>Useful.</item>
+            </list>
+        </problem>
+        <solution id="eip-526">
+          <para id="eip-527">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-700">
+        <problem id="eip-727">
+          <para id="eip-557">What does the term “prior art” refer to?</para>
+            <list id="eip-id1165787009793" list-type="enumerated" number-style="upper-alpha">
+              <item>Any previous private discussions of an invention or its components.</item>
+              <item>Any previous patent, publication, or public use of an invention.</item>
+              <item>Any previous speculation about an invention.</item>
+              <item>None of the above.</item>
+            </list>
+        </problem>
+        <solution id="eip-528">
+          <para id="eip-529">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-955">
+        <problem id="eip-485">
+          <para id="eip-698">If you invent a functioning starship warp drive, <emphasis effect="italics">Star Trek</emphasis> would be considered prior art and your invention would be ineligible for a patent. True or False?</para>
+            <list id="eip-id1169845151671" list-type="enumerated" number-style="upper-alpha">
+              <item>True.</item>
+              <item>False.</item>
+            </list>
+        </problem>
+        <solution id="eip-530">
+          <para id="eip-531">B.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-208">
+        <problem id="eip-787">
+          <para id="eip-639">To meet the requirement for utility, which of the following must an invention do?</para>
+            <list id="eip-id1169841517045" list-type="enumerated" number-style="upper-alpha">
+              <item>Work or function as intended.</item>
+              <item>Be of some benefit to society.</item>
+              <item>Be a worthwhile product, process, or composition of matter.</item>
+              <item>All of the above.</item>
+            </list>
+        </problem>
+        <solution id="eip-532">
+          <para id="eip-533">A.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-975">
+        <problem id="eip-775">
+          <para id="eip-301">Why would combining a camera with a cell phone in a smartphone pass the test for non-obviousness, whereas putting wheels from a chair onto an office cart would not?</para>
+            <list id="eip-id1164439363044" list-type="enumerated" number-style="upper-alpha">
+              <item>The technology in a smartphone is much more complicated.</item>
+              <item>Putting wheels from a chair onto a cart is less difficult.</item>
+              <item>Combining a camera and a cell phone produced an unexpected result.</item>
+            </list>
+        </problem>
+        <solution id="eip-534">
+          <para id="eip-535">C.</para>
+        </solution>
+      </exercise>
+      <exercise id="eip-720">
+        <problem id="eip-610">
+          <para id="eip-874">Of the three criteria for patenting, which is the most difficult to surmount?</para>
+            <list id="eip-id1170147838370" list-type="enumerated" number-style="upper-alpha">
+              <item>Utility.</item>
+              <item>Novelty.</item>
+              <item>Non-obviousness.</item>
+            </list>
+        </problem>
+        <solution id="eip-536">
+          <para id="eip-537">C.</para>
+        </solution>
+      </exercise>
+    </section>
+  </content>
+</document>
