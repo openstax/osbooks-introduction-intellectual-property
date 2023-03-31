@@ -103,10 +103,10 @@ http://tess2.uspto.gov/tmdb/tmep/1200.htm
     <para id="eip-782">The test above determines whether there is a literal association to the name or not. For example, if an entrepreneur launches a company called “Los Angeles Shoes” to produce shoes in Los Angeles, the name would not pass the test
       for trademark eligibility because the primary significance of the mark is that it is a generally known location, the product is produced in the location stated in the mark, and consumers would believe the shoes were made in Los Angeles.</para>
     <para id="eip-769">The goal of the bar against geographically
-      <term>descriptive</term>
+      <term id="term-00001">descriptive</term>
       marks, then, is to protect one party from seizing ownership of a geographic term that ought to remain in the public domain.</para>
     <para id="eip-521">If a geographic mark is deceptively
-      <term>misdescriptive</term>,
+      <term id="term-00002">misdescriptive</term>,
       however, the test is as follows:
       <list id="geomark" list-type="bulleted">
         <item>The primary significance of the mark is a generally known geographic location.</item>
@@ -122,7 +122,7 @@ http://tess2.uspto.gov/tmdb/tmep/1200.htm
       </list>
     </para>
     <para id="eip-913">The goal of this test for geographically
-      <term>misdescriptive</term>
+      <term id="term-00003">misdescriptive</term>
       marks is to prevent the confusion and deception of the consumer. For example, if an entrepreneur launches a fashionable shoe business called “New York Shoes” but actually manufactures the shoes in China, he will not receive a trademark for the name
       because it will likely confuse or deceive consumers.
     </para>

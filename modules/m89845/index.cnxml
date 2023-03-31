@@ -28,10 +28,10 @@
       </list>
     </section>
     <para id="eip-204">Up to this point, we have focused only on the most common types of patents, called
-      <term>utility patents</term>, which preclude others from making, using, or selling the invention during the term of the patent, which begins on the grant date and ends 20 years from the filing date (for an average of 17 to 18 years). But in
-      addition to these, the Patent Act also provides for two other types of patents—<term>plant patents</term>
+      <term id="term-00001">utility patents</term>, which preclude others from making, using, or selling the invention during the term of the patent, which begins on the grant date and ends 20 years from the filing date (for an average of 17 to 18 years). But in
+      addition to these, the Patent Act also provides for two other types of patents—<term id="term-00002">plant patents</term>
       and
-      <term>design patents</term>.
+      <term id="term-00003">design patents</term>.
     </para>
     <section id="eip-6043">
       <title>Plant Patents</title><para id="eip-604">Plant patents were first created by the
@@ -41,7 +41,7 @@
     <para id="eip-950">Although the requirements for plant and design patents are substantially the same as those for utility patents, there are some crucial differences. The most important of these is the substitution of a different test for one of the
       three criteria for patentability discussed in the previous section.</para>
     <para id="eip-499">Instead of novelty, utility, and non-obviousness, the criteria for plant patentability are novelty,
-      <term>distinctiveness</term>, and non-obviousness. To be patentable, plants must be cultivated rather than found in the wild, and plant patents are granted only to protect a new, distinct, and non-obvious variety of asexually reproduced
+      <term id="term-00004">distinctiveness</term>, and non-obviousness. To be patentable, plants must be cultivated rather than found in the wild, and plant patents are granted only to protect a new, distinct, and non-obvious variety of asexually reproduced
       plant—i.e., those grown not with seeds but by grafting, budding, or cutting. A plant need not be useful to qualify for a patent, but it must be distinctive in its color, habit, soil, flavor, productivity, form, or other aspects.</para></section>
     <section id="eip-9123">
       <title>Design Patents</title><para id="eip-912">Design patents are granted to protect new, original, and non-obvious ornamental designs for articles of manufacture. Examples include Apple’s 2009 and 2010 patents—<link url="https://www.openstax.org/l/USD593087">No. D593087</link>
@@ -51,7 +51,7 @@
       for the look and feel of the iPad. Design patents can be just as valuable as utility patents, as Apple discovered when a jury awarded it $1 billion in damages against Samsung in August 2012, for the latter’s infringement of Apple’s utility and design
       patents. The case is currently on appeal.</para>
     <para id="eip-256">Like plant patents, design patents also substitute a different test than utility in their requirements for patentability. Instead of the novelty, utility, and non-obvious requirements for utility patents, the criteria for design patents are novelty,
-      <term>ornamentality</term>, and non-obviousness.</para>
+      <term id="term-00005">ornamentality</term>, and non-obviousness.</para>
     <para id="eip-109">It was on the subject of design patents that one example of media confusion appeared. The
       <emphasis effect="italics">New York Times</emphasis>
       published an article November 16, 2012, declaring in a sensational headline that “<link url="https://www.openstax.org/l/ApplePageTurn">Apple Now Owns the Page Turn</link>.” The article claimed that a new Apple design patent “gives Apple the exclusive rights to the page turn in an e-reader application.” According to the article’s author, this showed “just how broken the patent system is.”</para>

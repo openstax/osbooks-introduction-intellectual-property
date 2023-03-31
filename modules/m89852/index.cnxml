@@ -59,7 +59,7 @@
       </footnote>
     </para>
     <para id="eip-573">The defendant(s) may also file one or more
-      <term>counterclaims</term>, which are essentially new charges filed against the plaintiff.<footnote id="footnote21">
+      <term id="term-00001">counterclaims</term>, which are essentially new charges filed against the plaintiff.<footnote id="footnote21">
         See Rule 13, Fed. R. Civ. P.
       </footnote>
       If such counterclaims are related to the subject matter of the initial case, they may be tried at the same time. If not, they may be severed and tried separately, either before or after the initial case.</para>
@@ -72,17 +72,17 @@
     </para>
     <para id="eip-648">Once these initial pleadings are filed, which usually takes about 60 days from when the initial complaint is filed, the case is considered “at issue” and the pretrial proceedings commence.</para>
     <para id="eip-971">Defendants in patent cases are increasingly turning to a strategy of filing requests for
-      <term>post-grant review</term>
+      <term id="term-00002">post-grant review</term>
       in the PTO to derail a patentee’s efforts to enforce the patent. Although beyond the scope of this chapter, a post-grant review essentially asks the PTO to take another look at whether the patent is valid, i.e., whether it should have been granted in
       the first place. The requestor of any post-grant review must present supporting evidence to show that some issue renders one or more of the patent’s claims invalid. The post-grant review request can be either
-      <term>ex parte reexamination</term>
+      <term id="term-00003">ex parte reexamination</term>
       (meaning the patentee does not get to participate) or
-      <term>inter partes review</term>
+      <term id="term-00004">inter partes review</term>
       (in which the patentee is allowed to participate), or
-      <term>covered business methods review</term>
+      <term id="term-00005">covered business methods review</term>
       (to review patents that claim a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or management of a financial product or service). Complex rules govern these proceedings, and
       they changed in 2011 under the
-      <term>America Invents Act (AIA)</term>, which substantially revised the nation’s patent laws in a number of important ways.<footnote id="footnote24">
+      <term id="term-00006">America Invents Act (AIA)</term>, which substantially revised the nation’s patent laws in a number of important ways.<footnote id="footnote24">
         See the PTO’s discussion of the AIA at
         http://www.uspto.gov/aia_implementation/index.jsp.
       </footnote>
@@ -90,7 +90,7 @@
     <para id="eip-972">The significance to a patentee of an opponent requesting post-grant review is twofold. First, the patentee risks losing its patent if the PTO finds it is invalid, and this is exactly what has happened in a majority of
       <emphasis effect="italics">inter partes review</emphasis>
       hearings as of March, 2016. Second, a defendant requesting post-grant review usually asks the court to
-      <term>stay</term>
+      <term id="term-00007">stay</term>
       (i.e., temporarily suspend) the patent case filed against it while the PTO evaluates the patent, arguing that the result of the PTO’s actions may either invalidate or modify the patent such that the court should await the outcome before proceeding
       with the litigation. This strategy has been successful in many courts.</para>
     <section id="eip-13" class="assessment-questions">

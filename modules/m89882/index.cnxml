@@ -29,7 +29,7 @@
       <para id="eip-617">The purpose of trademarks is to enable consumers to distinguish the source of products and services as well as help businesses defend the quality and reputation of those goods. Trademarks benefit society by protecting consumers and
       businesses alike, and by preventing confusion in the marketplace. This principle lies at the heart of the trademark system.</para>
     <para id="eip-993">It is also the basis on which the courts rule on claims of trademark infringement. The most common way that trademark infringement causes confusion is through
-      <term>similarity</term>. In the words of the Lanham Act, no trademark may be registered “which so resembles” another name or mark that it will be likely “to cause confusion, or to cause mistake, or to deceive.”<footnote id="footnote40">
+      <term id="term-00001">similarity</term>. In the words of the Lanham Act, no trademark may be registered “which so resembles” another name or mark that it will be likely “to cause confusion, or to cause mistake, or to deceive.”<footnote id="footnote40">
         See 15 U.S.C. § 1052 Retrieved from
         http://www.law.cornell.edu/uscode/text/15/1052
       </footnote>
@@ -49,8 +49,8 @@
       <item>The intent of the defendant in adopting its mark.</item>
     </list>
     <para id="eip-620">The basis for determining similarity, again, is not an assessment of the similarity between each component of two trademarks but of their totality as seen and experienced by the consumer. And the key test for similarity is
-      <term>resemblance</term>, not
-      <term>sameness</term>. In short, two marks do not have to be exact mirror images of each other to be legally similar. According to a 2003 decision by the U.S. Court of Appeals for the Federal Circuit, “Similarity is not a binary factor but is a matter of degree."<footnote id="footnote41">
+      <term id="term-00002">resemblance</term>, not
+      <term id="term-00003">sameness</term>. In short, two marks do not have to be exact mirror images of each other to be legally similar. According to a 2003 decision by the U.S. Court of Appeals for the Federal Circuit, “Similarity is not a binary factor but is a matter of degree."<footnote id="footnote41">
         In re Coors Brewing Co., Fed. Cir. 2003 Retrieved from:
         http://www.ipo.org/AM/Template.cfm?Section=Federal_Circuit_Opinions&amp;ContentID=4174&amp;template=/CM/ContentDisplay.cfm.
       </footnote>
@@ -64,7 +64,7 @@
       similarity of the goods and services on which the two marks are being used. If a company that made metal chains called itself “LinkedIn,” that would less likely cause consumers to believe that the chains came from the same source as the social
       networking site, because the manufacture of chains is a very different line of business than running a social networking site.</para>
     <para id="eip-409">An entity can be guilty of
-      <term>contributory infringement</term>
+      <term id="term-00004">contributory infringement</term>
       if it intentionally encourages the infringement of a valid mark by a third party. One can also be liable for contributory infringement if one continues to produce or distribute a product with knowledge that the beneficiary is infringing a mark. As
       the Supreme Court held in the 1982 case
       <link url="https://www.openstax.org/l/InwoodVIves">
@@ -85,7 +85,7 @@ http://scholar.google.com/scholar_case?case=5946191720195736097&amp;hl=en&amp;as
         -<emphasis effect="italics">Inwood Labs., Inc. v. Ives Labs., Inc.</emphasis></para>
       </quote>
     <para id="eip-267">Another type of infringement is
-      <term>vicarious infringement</term>. The definition of vicarious infringement is somewhat convoluted, but Cornell University’s Legal Information Institute describes it thusly:  </para>
+      <term id="term-00005">vicarious infringement</term>. The definition of vicarious infringement is somewhat convoluted, but Cornell University’s Legal Information Institute describes it thusly:  </para>
       <quote id="eip-id166178027"><para id="eip-id1661780272">
         “A person may be held liable for the infringing acts committed by another if he or she had the right and ability to control the infringing activities and had a direct financial interest in such activities. The existence of direct infringement is
         required to establish a claim of vicarious infringement; however, it is not necessary for the alleged infringer to have intent or knowledge of the infringement.”<footnote id="footnote44">
@@ -100,7 +100,7 @@ http://www.law.cornell.edu/wex/vicarious_infringement.
       </link>., in which third parties uploaded unauthorized games that displayed the Sega mark to the Maphia site with the knowledge and consent of—and to the profit of—Maphia owners.
     </para>
     <para id="eip-593">Finally, there is a form of harm called
-      <term>trademark dilution</term>, which is described by the International Trademark Association as “the weakening of a famous mark’s ability to identify and distinguish goods or services, regardless of competition in the marketplace or the
+      <term id="term-00006">trademark dilution</term>, which is described by the International Trademark Association as “the weakening of a famous mark’s ability to identify and distinguish goods or services, regardless of competition in the marketplace or the
       likelihood of confusion. Dilution typically occurs as the result of blurring or tarnishment of the famous mark. . . . The concept of dilution developed from the idea that because some marks are so well-known and famous, they deserve an extra level of
       protection beyond the likelihood-of-confusion analysis. Dilution theory seeks to prevent the coexistence of a mark that is sufficiently similar to a famous mark, regardless of the goods and/or services associated with the allegedly diluting mark.”</para>
     <para id="eip-981">The Federal Trademark Dilution Act of 1995 and the Federal Dilution Revision Act of 2006 created a federal cause of action for trademark dilution that is separate from infringement. Generally speaking, an owner of a trademark

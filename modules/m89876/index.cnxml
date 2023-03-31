@@ -34,11 +34,11 @@
       </media>
 
     <para id="eip-528">The term “trademark” is usually used to describe any of the four types of marks that can be registered with the U.S. Patent and Trademark Office. The two primary types of marks are
-      <term>trademarks</term>
+      <term id="term-00001">trademarks</term>
       and
-      <term>service marks</term>. The two other marks—<term>certification marks</term>
+      <term id="term-00002">service marks</term>. The two other marks—<term id="term-00003">certification marks</term>
       and
-      <term>collective marks</term>—occur much less frequently and must meet different requirements for registration.<footnote id="footnote10">
+      <term id="term-00004">collective marks</term>—occur much less frequently and must meet different requirements for registration.<footnote id="footnote10">
         United States Patent and Trademark Office. (2012, May 24). Trademarks. Retrieved from
         http://www.uspto.gov/inventors/trademarks.jsp
       </footnote>
@@ -59,7 +59,7 @@
        http://www.uspto.gov/faq/trademarks.jsp#_Toc275426676
       </footnote>
       A certification mark identifies either the nature of a product or service—for example, that it meets the quality standards needed to receive the “Good Housekeeping Seal of Approval”—or the
-      <term>origin</term>
+      <term id="term-00005">origin</term>
       of products or services, as in the certification mark “Washington State” given to apples grown in that state.</para></section>
     <section id="eip-5923">
       <title>Collective Marks</title><para id="eip-592">Collective marks come in one of two varieties: collective trademarks and service marks, and collective membership marks. A collective trade or service mark is any word, phrase, symbol, or design that is owned by a

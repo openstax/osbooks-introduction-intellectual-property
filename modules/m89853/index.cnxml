@@ -37,7 +37,7 @@
     <para id="eip-151">The preliminary pretrial conference is usually the first time the parties appear in court before the judge, unless there has been a hearing on a pretrial motion (as discussed above). At this conference, the judge discusses with the
       parties the issues likely to arise in the case, the time that pretrial discovery is expected to take, and any issues that make the case unique (such as witnesses in foreign countries that require extraordinary means to obtain their testimony for
       trial). Each party is usually required to submit a report to the court in advance of this conference, proposing what the timeline for the case should be and identifying any unique issues. The court typically issues a
-      <term>scheduling order</term>
+      <term id="term-00001">scheduling order</term>
       at, or shortly after, the pretrial conference, specifying dates by which certain activities must be concluded. This order often “splits the baby” between the plaintiff’s and defendant’s proposed schedules (the plaintiff usually seeks speed while the
       defendant usually seeks delay). The figure below shows a typical scheduling order.</para>
     <para id="eip-669">The scheduling order will also usually specify a length of the trial (e.g., 8 trial days), subject to revision at the final pretrial conference. A typical patent trial is scheduled to last from 5 to 20 trial days, but some can take
@@ -112,7 +112,7 @@
       <title>Claim Construction Briefing and Hearing</title><para id="eip-415">In virtually every patent case, a dispute arises over the meaning of certain language used in the asserted claims of the patents at issue. These are called “claim construction” disputes, and must
       be resolved by the judge before trial. The parties are permitted to provide their competing arguments in briefs to the court, usually after discovery is completed, and make an oral argument on their respective positions to the court at a claim
       construction hearing. These hearings are often called
-      <term>Markman hearings</term>, after the name of the case that established that the judge, and not the jury, must decide the proper meaning of disputed claim language.<footnote id="footnote38">
+      <term id="term-00002">Markman hearings</term>, after the name of the case that established that the judge, and not the jury, must decide the proper meaning of disputed claim language.<footnote id="footnote38">
         <emphasis effect="italics">Markman, et al. v. Westview Instruments, Inc.</emphasis>,
         517 U.S. 370 (1996).
       </footnote>
@@ -131,7 +131,7 @@
       to include the accused products and services of the defendant(s).</para></section>
     <section id="eip-4193">
       <title>Summary Judgment Briefing and Hearing</title><para id="eip-419">
-      <term>Summary judgment</term>
+      <term id="term-00003">Summary judgment</term>
       is a procedure that obviates a trial where one of the parties can show that its opponent cannot win—as a matter of law.<footnote id="footnote39">
         See Rule 56, Fed. R. Civ. P.
       </footnote>
