@@ -126,45 +126,19 @@
     <section id="eip-46" class="assessment-questions">
       <exercise id="eip-586">
         <problem id="eip-317">
-          <para id="eip-224">Which of the following is NOT an example of misappropriation of a trade secret?</para>
-            <list id="eip-id1164448535435" list-type="enumerated" number-style="upper-alpha">
-              <item>Acquisition of a trade secret through improper means.</item>
-              <item>Deliberate disclosure of a trade secret by the trade secret owner.</item>
-              <item>Disclosure of a trade secret without consent.</item>
-            </list>
+          <para id="eip-224"><link class="os-embed" url="#exercise/05-05-IntP-AQ22"/></para>
+       
         </problem>
-
-        <solution id="eip-512">
-          <para id="eip-741">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-406">
         <problem id="eip-853">
-          <para id="eip-361">The UTSA not only prohibits the actual disclosure or use of a trade secret, it also protects against the “threatened” disclosure of trade secrets. When might a court intervene to stop a “threatened” disclosure before the actual disclosure takes place?</para>
-            <list id="eip-id1164449182159" list-type="enumerated" number-style="upper-alpha">
-              <item>An employee goes to work for another company in a different industry.</item>
-              <item>An employee caught embezzling is fired and the employer believes the same lack of morals will lead to the fired employee disclosing trade secrets.</item>
-              <item>An employee goes to work for an arch competitor in a comparable job position.</item>
-            </list>
+          <para id="eip-361"><link class="os-embed" url="#exercise/05-05-IntP-AQ23"/></para>
         </problem>
-
-        <solution id="eip-18">
-          <para id="eip-126">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-72">
         <problem id="eip-401">
-          <para id="eip-22">The burden of proof in a threatened trade secret misappropriation case lies with whom?</para>
-            <list id="eip-id7814213" list-type="enumerated" number-style="upper-alpha">
-              <item>The trade secret owner.</item>
-              <item>The former employee who leaves to go work for a competitor.</item>
-              <item>The competitor, who must prove he did no wrong by hiring the ex-employee.</item>
-            </list>
+          <para id="eip-22"><link class="os-embed" url="#exercise/05-05-IntP-AQ24"/></para>
         </problem>
-
-        <solution id="eip-404">
-          <para id="eip-516">A.</para>
-        </solution>
       </exercise>
     </section>
   </content>

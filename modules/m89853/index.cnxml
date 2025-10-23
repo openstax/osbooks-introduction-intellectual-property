@@ -157,30 +157,14 @@
     <section id="eip-14" class="assessment-questions">
       <exercise id="eip-7">
         <problem id="eip-858">
-          <para id="eip-316">What role does discovery play in an infringement case?</para>
-            <list id="eip-id6907830" list-type="enumerated" number-style="upper-alpha">
-              <item>Through production of documents and interrogatories, either side may discover information that may be decisive in confirming or rebutting infringement claims.</item>
-              <item>Discovery is often an endless fishing expedition that escalates the costs to both parties exponentially.</item>
-              <item>Both of these describe the role of discovery in an infringement case.</item>
-            </list>
+          <para id="eip-316"><link class="os-embed" url="#exercise/02-05-IntP-AQ14"/></para>
         </problem>
-        <solution id="eip-945">
-          <para id="eip-946">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-266">
         <problem id="eip-830">
-          <para id="eip-618">What is the most critical pretrial phase of every patent infringement case?</para>
-            <list id="eip-id6796539" list-type="enumerated" number-style="upper-alpha">
-              <item>Discovery.</item>
-              <item>Summary Judgment.</item>
-              <item>Claims construction (or Markman) hearings.</item>
-              <item>The Verdict.</item>
-            </list>
+          <para id="eip-618"><link class="os-embed" url="#exercise/02-05-IntP-AQ15"/></para>
+          
         </problem>
-        <solution id="eip-948">
-          <para id="eip-947">C.</para>
-        </solution>
       </exercise>
     </section>
   </content>

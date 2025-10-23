@@ -52,17 +52,8 @@
     <section id="eip-17" class="assessment-questions">
       <exercise id="eip-274">
         <problem id="eip-362">
-          <para id="eip-485">Which of the following explain why patent infringement verdicts are almost always appealed?</para>
-            <list id="eip-id1170530582725" list-type="enumerated" number-style="upper-alpha">
-              <item>The cost of an appeal is orders of magnitude less than the cost of the trial itself.</item>
-              <item>Legal issues such as claim construction are reviewed <term id="term-00002">de novo</term> - meaning, without regard to the previous trial’s rulings.</item>
-              <item>The U.S. Court for the Federal Circuit, the appeals court, affirms in full less than 60 percent of the patent cases it decides on the merits.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-485"><link class="os-embed" url="#exercise/02-08-IntP-AQ22"/></para>
         </problem>
-        <solution id="eip-11">
-          <para id="eip-626">D.</para>
-        </solution>
       </exercise>
     </section>
   </content>

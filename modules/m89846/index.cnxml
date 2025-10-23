@@ -116,97 +116,50 @@
     <section id="eip-9" class="assessment-questions">
       <exercise id="eip-778">
         <problem id="eip-383">
-          <para id="eip-43">By what percentage are filing fees reduced if the applicant is on of the following:</para>
-            <list id="eip-id1911920" list-type="enumerated" number-style="upper-alpha">
-              <item>Universities, non-profits, and small businesses with fewer than 500 employees.</item>
-              <item>Those with gross income less than three times U.S. median household income or meet other certain critera.</item>
-            </list>
+          <para id="eip-43"><link class="os-embed" url="#exercise/01-09-IntP-AQ38"/></para>
+
         </problem>
-        <solution id="eip-438">
-          <para id="eip-439">A. These are called small entities, and receive a 50% discount in application fees.; B. These are micro-entities, and receive a 75% discount in filing fees.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-777">
         <problem id="eip-382">
-          <para id="eip-41">What is the advantage of a provisional patent application, which lasts only one year?</para>
-            <list id="eip-id1911919" list-type="enumerated" number-style="upper-alpha">
-              <item>It is less expensive.</item>
-              <item>It is not subject to examination.</item>
-              <item>It grants an early filing date while the inventor continues working on the invention.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-41"><link class="os-embed" url="#exercise/01-09-IntP-AQ39"/></para>
         </problem>
-        <solution id="eip-538">
-          <para id="eip-539">D.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-260">
         <problem id="eip-641">
-          <para id="eip-80">What is the main disadvantage of a provisional patent application?</para>
-            <list id="eip-id1167415481146" list-type="enumerated" number-style="upper-alpha">
-              <item>It reserves an early filing date for a later, nonprovisional application.</item>
-              <item>The claims in a later, nonprovisional application must be completely consistent with the early description contained in the provisional application.</item>
-              <item>The provisional patent only contains the specifications, and drawings, if any.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-80"><link class="os-embed" url="#exercise/01-09-IntP-AQ40"/></para>
+
         </problem>
-        <solution id="eip-540">
-          <para id="eip-541">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-356">
         <problem id="eip-253">
-          <para id="eip-536">What is the most critical part of a patent application that determines both the inventor’s rights and an infringer’s liability?</para>
-            <list id="eip-id1166283984374" list-type="enumerated" number-style="upper-alpha">
-              <item>The claims.</item>
-              <item>The specification.</item>
-              <item>The drawings.</item>
-              <item>The abstract.</item>
-            </list>
+          <para id="eip-536"><link class="os-embed" url="#exercise/01-09-IntP-AQ41"/></para>
+ 
         </problem>
-        <solution id="eip-542">
-          <para id="eip-543">A.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-431">
         <problem id="eip-904">
-          <para id="eip-590">Which of the following is the best strategy in drafting claims in a patent application?</para>
-            <list id="eip-id1170512598363" list-type="enumerated" number-style="upper-alpha">
-              <item>Draft them as broadly as possible, to cover every possible use of the invention.</item>
-              <item>Draft them as narrowly as possible, so the examiner won’t reject them.</item>
-              <item>Draft them as broadly as the specifications and the prior art allows, then back up those broad claims with successively narrower claims as backup.</item>
-            </list>
+          <para id="eip-590"><link class="os-embed" url="#exercise/01-09-IntP-AQ42"/></para>
+
         </problem>
-        <solution id="eip-544">
-          <para id="eip-545">C.</para>
-        </solution>
+   
       </exercise>
       <exercise id="eip-751">
         <problem id="eip-827">
-          <para id="eip-200">In a “first office action,” the examiner usually does which of the following?</para>
-            <list id="eip-id1165797859629" list-type="enumerated" number-style="upper-alpha">
-              <item>Allows all the claims in the patent application.</item>
-              <item>Rejects some claims and/or requests further information.</item>
-              <item>Rejects the entire application.</item>
-            </list>
+          <para id="eip-200"><link class="os-embed" url="#exercise/01-09-IntP-AQ43"/></para>
+
         </problem>
-        <solution id="eip-546">
-          <para id="eip-547">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-637">
         <problem id="eip-321">
-          <para id="eip-90">In a second or subsequent examination, if the examiner finally rejects some or all of the claims, what can the applicant do at that point?</para>
-            <list id="eip-id5523178" list-type="enumerated" number-style="upper-alpha">
-              <item>Cancel the rejected claims, leaving only allowed claims.</item>
-              <item>File what’s called a “continuation application.”</item>
-              <item>Appeal to the Patent Trial and Appeal Board.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-90"><link class="os-embed" url="#exercise/01-09-IntP-AQ44"/></para>
+
         </problem>
-        <solution id="eip-548">
-          <para id="eip-549">D.</para>
-        </solution>
+  
       </exercise>
     </section>
   </content>

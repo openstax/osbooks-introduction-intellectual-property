@@ -68,70 +68,32 @@
     <section id="eip-33" class="assessment-questions">
       <exercise id="eip-155">
         <problem id="eip-112">
-          <para id="eip-856">What caused U.S. trademark laws to evolve from a patchwork of state laws into a unitary federal trademark system?</para>
-            <list id="eip-id1171402284500" list-type="enumerated" number-style="upper-alpha">
-              <item>The Industrial Revolution transformed America’s many local and regional markets into a unified national economy.</item>
-              <item>Producers of goods and services began to grow into national entities.</item>
-              <item>State laws often conflicted with each other.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-856"><link class="os-embed" url="#exercise/04-03-IntP-AQ11"/>?</para>
+
         </problem>
-        <solution id="eip-964">
-          <para id="eip-965">D.</para>
-        </solution>
       </exercise>
       <exercise id="eip-509">
         <problem id="eip-386">
-          <para id="eip-749">Why were the first two national trademark laws ruled unconstitutional by the Supreme Court?</para>
-            <list id="eip-id1172060946833" list-type="enumerated" number-style="upper-alpha">
-              <item>The court ruled that they infringed on non-trademark owners’ first amendment rights to free speech.</item>
-              <item>The court ruled in 1879 that the patent and copyright clauses of the Constitution gave Congress no authority to regulate trademarks.</item>
-              <item>The court ruled that they were too vaguely written.</item>
-            </list>
+          <para id="eip-749"><link class="os-embed" url="#exercise/04-03-IntP-AQ12"/></para>
+           
         </problem>
-        <solution id="eip-966">
-          <para id="eip-968">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-871">
         <problem id="eip-943">
-          <para id="eip-71">What was the chief weakness of the Trade Mark Act of 1881?</para>
-            <list id="eip-id1169311726825" list-type="enumerated" number-style="upper-alpha">
-              <item>It only regulated the trademarks used in commerce with other nations and with Indian tribes.</item>
-              <item>It only allowed for the registration but not the enforcement of trademarks.</item>
-              <item>It derived its authority from the Commerce Clause of the U.S. Constitution.</item>
-            </list>
+          <para id="eip-71"><link class="os-embed" url="#exercise/04-03-IntP-AQ13"/></para>
+        
         </problem>
-        <solution id="eip-969">
-          <para id="eip-970">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-269">
         <problem id="eip-78">
-          <para id="eip-606">The Lanham Act is the principal federal law on trademarks in the United States. Which of the following was NOT a feature of trademark law enacted by the act?</para>
-            <list id="eip-id1169309825686" list-type="enumerated" number-style="upper-alpha">
-              <item>It broadened the national system of trademark registration.</item>
-              <item>It set the trademark renewal period.</item>
-              <item>It required registration of trademarks before owners could gain access to the federal courts for redress.</item>
-              <item>It established remedies in the case of infringement.</item>
-            </list>
+          <para id="eip-606"><link class="os-embed" url="#exercise/04-03-IntP-AQ14"/></para>
         </problem>
-        <solution id="eip-971">
-          <para id="eip-972">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-967">
         <problem id="eip-778">
-          <para id="eip-111">When does federal law create a presumption of trademark abandonment?</para>
-            <list id="eip-id1171403950960" list-type="enumerated" number-style="upper-alpha">
-              <item>When its owner ceases to use it in commerce.</item>
-              <item>When its owner ceases to employ it throughout the national territory of the United States.</item>
-              <item>When its owner ceases to use the trademark in commerce for three or more years.</item>
-            </list>
+          <para id="eip-111"><link class="os-embed" url="#exercise/04-03-IntP-AQ15"/></para>
+          
         </problem>
-        <solution id="eip-973">
-          <para id="eip-974">C.</para>
-        </solution>
       </exercise>
     </section>
   </content>

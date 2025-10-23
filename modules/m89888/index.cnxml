@@ -88,58 +88,26 @@
     <section id="eip-43" class="assessment-questions">
       <exercise id="eip-373">
         <problem id="eip-508">
-          <para id="eip-621">Which of the following could be considered a trade secret so long as reasonable steps had been taken to prevent its disclosure?</para>
-            <list id="eip-id1168443045669" list-type="enumerated" number-style="upper-alpha">
-              <item>Sales information.</item>
-              <item>Customer lists.</item>
-              <item>Manufacturing techniques.</item>
-              <item>All of the above.</item>
-            </list>
-        </problem>
+          <para id="eip-621"><link class="os-embed" url="#exercise/05-03-IntP-AQ13"/></para>
 
-        <solution id="eip-881">
-          <para id="eip-852">D.</para>
-        </solution>
+        </problem>
       </exercise>
       <exercise id="eip-681">
         <problem id="eip-427">
-          <para id="eip-366">Is information not known to the public considered to be a trade secret?</para>
-            <list id="eip-id1168398" list-type="enumerated" number-style="upper-alpha">
-              <item>Yes.</item>
-              <item>No.</item>
-              <item>It depends.</item>
-            </list>
+          <para id="eip-366"><link class="os-embed" url="#exercise/05-03-IntP-AQ14"/></para>
         </problem>
-
-        <solution id="eip-392">
-          <para id="eip-170">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-595">
         <problem id="eip-668">
-          <para id="eip-204">Would a customer list always be considered a trade secret?</para>
-            <list id="eip-id1170507543683" list-type="enumerated" number-style="upper-alpha">
-              <item>It depends on whether the customers want to be identified or not.</item>
-              <item>To be considered a trade secret, the names of customers must not be available or discernable through public sources.</item>
-            </list>
+          <para id="eip-204"><link class="os-embed" url="#exercise/05-03-IntP-AQ15"/></para>
+      
         </problem>
-
-        <solution id="eip-266">
-          <para id="eip-91">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-3">
         <problem id="eip-701">
-          <para id="eip-478">Can a mere idea be considered a trade secret?</para>
-            <list id="eip-id1171136765769" list-type="enumerated" number-style="upper-alpha">
-              <item>No. Just as you cannot patent or copyright a mere idea, you cannot protect a mere idea with a trade secret.</item>
-              <item>Yes. Under the Uniform Trade Secrets Act, even an idea can sometimes be considered a trade secret.</item>
-            </list>
+          <para id="eip-478"><link class="os-embed" url="#exercise/05-03-IntP-AQ16"/></para>
+        
         </problem>
-
-        <solution id="eip-774">
-          <para id="eip-840">A.</para>
-        </solution>
       </exercise>
     </section>
   </content>

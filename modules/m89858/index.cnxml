@@ -111,16 +111,10 @@
     <section id="eip-19" class="assessment-questions">
       <exercise id="eip-129">
         <problem id="eip-126">
-          <para id="eip-505">Which of the following is the definition of a “patent troll”?</para>
-            <list id="eip-id1103382" list-type="enumerated" number-style="upper-alpha">
-              <item>A patent owner who licenses their patents rather than makes or sells products.</item>
-              <item>A patent owner whose main source of revenue is patent litigation.</item>
-              <item>A patent owner whose main source of revenue is “nuisance settlements” for less than the cost of litigation.</item>
-            </list>
+          <para id="eip-505"><link class="os-embed" url="#exercise/02-08-IntP-AQ24"/></para>
+
         </problem>
-        <solution id="eip-949">
-          <para id="eip-950">C.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

@@ -55,16 +55,10 @@
     <section id="eip-18" class="assessment-questions">
       <exercise id="eip-398">
         <problem id="eip-343">
-          <para id="eip-63">As an alternative to litigation, mediation is different from arbitration in what way?</para>
-            <list id="eip-id1165830789767" list-type="enumerated" number-style="upper-alpha">
-              <item>Mediations result in settlements only if both parties agree.</item>
-              <item>In arbitrations, the parties are bound by the decision of the arbitrator.</item>
-              <item>Both of these are accurate.</item>
-            </list>
+          <para id="eip-63"><link class="os-embed" url="#exercise/02-08-IntP-AQ23"/></para>
+
         </problem>
-        <solution id="eip-949">
-          <para id="eip-950">C.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

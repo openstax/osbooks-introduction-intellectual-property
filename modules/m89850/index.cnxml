@@ -68,30 +68,17 @@
     <section id="eip-11" class="assessment-questions">
       <exercise id="eip-421">
         <problem id="eip-942">
-          <para id="eip-797">If you believe your patent is being infringed, you have how many options for recourse?</para>
-            <list id="eip-id7561003" list-type="enumerated" number-style="upper-alpha">
-              <item>Two. You can sue the infringer in federal court, or ignore the infringement.</item>
-              <item>Three. Besides the two above, you can simply demand he stop infringing.</item>
-              <item>Four. You can sue the infringer, demand he stop infringing and pay monetary damages, offer the infringer a license in return for royalties, or ignore it.</item>
-            </list>
+          <para id="eip-797"><link class="os-embed" url="#exercise/02-02-IntP-AQ06"/></para>
+
         </problem>
-        <solution id="eip-943">
-          <para id="eip-944">C.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-294">
         <problem id="eip-749">
-          <para id="eip-753">Patent infringement suits can take years and cost millions of dollars. Which of the following is another option patent owners have in seeking redress for infringement?</para>
-            <list id="eip-id4257891" list-type="enumerated" number-style="upper-alpha">
-              <item>Litigation financing in exchange for a share of any damages.</item>
-              <item>Out-of-court license and royalty settlements.</item>
-              <item>Contingency lawyers take the case for a share of any damages.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-753"><link class="os-embed" url="#exercise/02-02-IntP-AQ07"/></para>
+
         </problem>
-        <solution id="eip-945">
-          <para id="eip-946">D.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

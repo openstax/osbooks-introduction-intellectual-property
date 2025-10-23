@@ -138,31 +138,15 @@ http://tess2.uspto.gov/tmdb/tmep/1200.htm
     <section id="eip-37" class="assessment-questions">
       <exercise id="eip-725">
         <problem id="eip-853">
-          <para id="eip-381">What are some of the bars to getting a trademark?</para>
-            <list id="eip-id1171471840021" list-type="enumerated" number-style="upper-alpha">
-              <item>The prior use bar.</item>
-              <item>The functionality bar.</item>
-              <item>Subject matter bars.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-381"><link class="os-embed" url="#exercise/04-07-IntP-AQ28"/></para>
+
         </problem>
-        <solution id="eip-985">
-          <para id="eip-986">D.</para>
-        </solution>
       </exercise>
       <exercise id="eip-421">
         <problem id="eip-736">
-          <para id="eip-103">If geographic marks that are deceptively misdescriptive are ineligible for trademark protection, then why was Amazon able to gain trademark protection for its name, which refers to a geographic area of South America?</para>
-            <list id="eip-id5941353" list-type="enumerated" number-style="upper-alpha">
-              <item>The name “Amazon” is not indicative of the geographic source of the retailer’s goods, nor do consumers think those goods come from the Amazonian region.</item>
-              <item>The name “Amazon” is not a factor in whether or not consumers decide to purchase books, clothing, electronics, or anything else from the company.</item>
-              <item>Amazon’s brand stands for low prices and great customer service, not for anything of a geographic nature.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-103"><link class="os-embed" url="#exercise/04-07-IntP-AQ29"/></para>
+          
         </problem>
-        <solution id="eip-987">
-          <para id="eip-988">D.</para>
-        </solution>
       </exercise>
     </section>
   </content>

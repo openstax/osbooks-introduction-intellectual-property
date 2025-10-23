@@ -94,28 +94,15 @@
     <section id="eip-15" class="assessment-questions">
       <exercise id="eip-57">
         <problem id="eip-849">
-          <para id="eip-277">Why do courts usually seat seven to nine jurors rather than six or twelve in most patent cases?</para>
-            <list id="eip-id3195472" list-type="enumerated" number-style="upper-alpha">
-              <item>You need an odd number of jurors to break a tie vote on the verdict.</item>
-              <item>Six jurors won’t be enough for a legal verdict if one is excused during trial, and twelve jurors will likely take too long to decide the case.</item>
-            </list>
+          <para id="eip-277"><link class="os-embed" url="#exercise/02-06-IntP-AQ16"/></para>
+           
         </problem>
-        <solution id="eip-945">
-          <para id="eip-946">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-12">
         <problem id="eip-964">
-          <para id="eip-345">Why are patent trials often thought of as morality plays?</para>
-            <list id="eip-id3096418" list-type="enumerated" number-style="upper-alpha">
-              <item>The facts of the case, not each party’s moral views, are all that matters to a jury.</item>
-              <item>It is immoral to spend $3 million to $10 million on a patent suit.</item>
-              <item>Each party casts itself as in the right and its opponent as doing them wrong.</item>
-            </list>
+          <para id="eip-345"><link class="os-embed" url="#exercise/02-06-IntP-AQ17"/></para>
+        
         </problem>
-        <solution id="eip-947">
-          <para id="eip-948">C.</para>
-        </solution>
       </exercise>
     </section>
   </content>

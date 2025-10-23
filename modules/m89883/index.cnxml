@@ -39,16 +39,8 @@
     <section id="eip-39" class="assessment-questions">
       <exercise id="eip-454">
         <problem id="eip-257">
-          <para id="eip-382">Which of the following is true about trademark remedies?</para>
-            <list id="eip-id1165587394297" list-type="enumerated" number-style="upper-alpha">
-              <item>Damages can be significantly increased if trademark infringement is deemed willful.</item>
-              <item>Courts frequently use injunctions based on trademark law to stop the importation of products that once carried infringing marks even after those marks have been removed.</item>
-              <item>Federal trademark law also provides for punitive damages for trademark infringement.</item>
-            </list>
+          <para id="eip-382"><link class="os-embed" url="#exercise/04-10-IntP-AQ36"/></para>
         </problem>
-        <solution id="eip-987">
-          <para id="eip-988">A.</para>
-        </solution>
       </exercise>
     </section>
   </content>

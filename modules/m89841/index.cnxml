@@ -135,43 +135,21 @@
     <section id="eip-4" class="assessment-questions">
       <exercise id="eip-482">
         <problem id="eip-762">
-          <para id="eip-656">Which of the following is NOT true of the U.S. patent system?</para>
-            <list id="eip-id8187194" list-type="enumerated" number-style="upper-alpha">
-              <item>Novelty, non-obviousness, and utility determine patent validity, not the identity or business model of the inventor.</item>
-              <item>Patents are freely transferable and tradable property rights.</item>
-              <item>You can’t infringe a patent if you honestly don’t know that it exists.</item>
-              <item>Patent holders are not required to make or sell products based on their inventions.</item>
-            </list>
+          <para id="eip-656"><link class="os-embed" url="#exercise/01-04-IntP-AQ11"/></para>
+           
         </problem>
-        <solution id="eip-863">
-          <para id="eip-864">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-773">
         <problem id="eip-475">
-          <para id="eip-579">Compared with the Industrial Revolution, what is the overall patent litigation rate today?</para>
-            <list id="eip-id1169845645957" list-type="enumerated" number-style="upper-alpha">
-              <item>It is twice what it used to be.</item>
-              <item>It is about the same as it used to be.</item>
-              <item>It is less than half what it used to be.</item>
-            </list>
+          <para id="eip-579"><link class="os-embed" url="#exercise/01-04-IntP-AQ12"/></para>
+          
         </problem>
-        <solution id="eip-312">
-          <para id="eip-257">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-704">
         <problem id="eip-623">
-          <para id="eip-390">Historically speaking, patent litigation has served to which of the following?</para>
-            <list id="eip-id1167414652167" list-type="enumerated" number-style="upper-alpha">
-              <item>Slow innovation and R&amp;D.</item>
-              <item>Settle disputed rights to new technology so commercialization can proceed.</item>
-              <item>Block others from designing around patents.</item>
-            </list>
+          <para id="eip-390"><link class="os-embed" url="#exercise/01-04-IntP-AQ13"/></para>
+         
         </problem>
-        <solution id="eip-859">
-          <para id="eip-960">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>

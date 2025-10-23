@@ -231,137 +231,73 @@
     <section id="eip-6" class="assessment-questions">
       <exercise id="eip-247">
         <problem id="eip-408">
-          <para id="eip-164">A patentable invention is a new, novel, and non-obvious machine, manufacture, process, or composition of matter. Which of the four types of inventions categories do these hypothetical mousetrap inventions represent?</para>
-            <list id="eip-id1164446353400" list-type="enumerated" number-style="upper-alpha">
-              <item>A mouse ray gun.</item>
-              <item>Exploding mouse glue.</item>
-              <item>A new way to catch mice using sound waves.</item>
-              <item>A mouse-destroying missile.</item>
-            </list>
+          <para id="eip-164"><link class="os-embed" url="#exercise/01-06-IntP-AQ18"/></para>
+
         </problem>
-        <solution id="eip-508">
-          <para id="eip-509">A. A machine—a tool with moving parts and uses energy.; B. A composition of matter—a synthesized chemical compound or molecule.; C. A process—a way to do something new or a new way to do something old.; D. A manufacture—a part or product produced according to design.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-457">
         <problem id="eip-895">
-          <para id="eip-106">All patentable inventions fall into two broad categories—they are products or processes. Which category do the following fall into?</para>
-            <list id="eip-id2096164" list-type="enumerated" number-style="upper-alpha">
-              <item>A machine.</item>
-              <item>A means to an end.</item>
-              <item>A composition of matter.</item>
-              <item>A manufacture.</item>
-            </list>
+          <para id="eip-106"><link class="os-embed" url="#exercise/01-06-IntP-AQ19"/></para>
+
         </problem>
-        <solution id="eip-510">
-          <para id="eip-511">A. It’s a product—a physical thing.; B. A process—a way to do something new or a new way to do something old.; C. It’s also a product—a physical thing.; D. Also a product—a physical thing.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-952">
         <problem id="eip-103">
-          <para id="eip-786">Can an idea for a better mousetrap be patented?</para>
-            <list id="eip-id1169833876787" list-type="enumerated" number-style="upper-alpha">
-              <item>Yes, so long as you outline the idea in detail.</item>
-              <item>No, you can’t patent a mere idea.</item>
-            </list>
+          <para id="eip-786"><link class="os-embed" url="#exercise/01-06-IntP-AQ20"/></para>
+
         </problem>
-        <solution id="eip-512">
-          <para id="eip-513">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-27">
         <problem id="eip-459">
-          <para id="eip-666">Which of the following is NOT patentable?</para>
-            <list id="eip-id1169524322180" list-type="enumerated" number-style="upper-alpha">
-              <item>Electricity.</item>
-              <item>A random number generator.</item>
-              <item>A device that uses electricity to communicate.</item>
-            </list>
+          <para id="eip-666"><link class="os-embed" url="#exercise/01-06-IntP-AQ21"/></para>
+
         </problem>
-        <solution id="eip-516">
-          <para id="eip-515">A.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-209">
         <problem id="eip-598">
-          <para id="eip-361">When might a software be patentable?</para>
-            <list id="eip-id1165785548478" list-type="enumerated" number-style="upper-alpha">
-              <item>If it contains a new, non-obvious, and useful algorithm.</item>
-              <item>If it takes a genuinely-inventive step to either trigger an action, employ a device, or in some other way produce a tangible transformative result.</item>
-              <item>If it records the sale of T-shirts over the Internet.</item>
-              <item>None of the above.</item>
-            </list>
+          <para id="eip-361"><link class="os-embed" url="#exercise/01-06-IntP-AQ22"/></para>
+
         </problem>
-        <solution id="eip-518">
-          <para id="eip-519">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-581">
         <problem id="eip-340">
-          <para id="eip-559">Which of the following cases was NOT one of the Supreme Court’s “software-eligibility trilogy” of cases?</para>
-            <list id="eip-id1164168071178" list-type="enumerated" number-style="upper-alpha">
-              <item><emphasis effect="italics">Gottschalk v. Benson</emphasis></item>
-              <item><emphasis effect="italics">Williams &amp; Wilkins v. United States</emphasis></item>
-              <item><emphasis effect="italics">Parker v. Flook</emphasis></item>
-              <item><emphasis effect="italics">Diamond v. Diehr</emphasis></item>
-            </list>
+          <para id="eip-559"><link class="os-embed" url="#exercise/01-06-IntP-AQ23"/></para>
+
         </problem>
-        <solution id="eip-520">
-          <para id="eip-521">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-621">
         <problem id="eip-46">
-          <para id="eip-286">Which court case most severely limited software patentability?</para>
-            <list id="eip-id1167414338217" list-type="enumerated" number-style="upper-alpha">
-              <item><emphasis effect="italics">State Street Bank v. Signature Financial Group</emphasis></item>
-              <item><emphasis effect="italics">In re Bilski</emphasis></item>
-              <item><emphasis effect="italics">Mayo Collaborative Services v. Prometheus Laboratories</emphasis></item>
-              <item><emphasis effect="italics">Alice v. CLS Bank</emphasis></item>
-            </list>
+          <para id="eip-286"><link class="os-embed" url="#exercise/01-06-IntP-AQ24"/></para>
+
         </problem>
-        <solution id="eip-522">
-          <para id="eip-523">D.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-112">
         <problem id="eip-145">
-          <para id="eip-906">What is the so-called “<emphasis effect="italics">Alice</emphasis> paradox”?</para>
-            <list id="eip-id1166284141785" list-type="enumerated" number-style="upper-alpha">
-              <item>The highest-value new software products and services are also hardest to patent.</item>
-              <item>You can get software patents, but you can’t enforce them.</item>
-              <item>You can only patent software that replicates human activity.</item>
-              <item>None of the above.</item>
-            </list>
+          <para id="eip-906"><link class="os-embed" url="#exercise/01-06-IntP-AQ25"/></para>
+
         </problem>
-        <solution id="eip-524">
-          <para id="eip-525">A.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-541">
         <problem id="eip-221">
-          <para id="eip-823">Patents should only be granted for big revolutionary breakthroughs. True or False?</para>
-            <list id="eip-id1169850492664" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
+          <para id="eip-823"><link class="os-embed" url="#exercise/01-06-IntP-AQ26"/></para>
+
         </problem>
-        <solution id="eip-526">
-          <para id="eip-527">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-386">
         <problem id="eip-724">
-          <para id="eip-69">Which of the following Supreme Court cases held that a naturally occurring DNA segment CANNOT be patented?</para>
-            <list id="eip-id1167414464366" list-type="enumerated" number-style="upper-alpha">
-              <item><emphasis effect="italics">Mayo Collaborative Services v. Prometheus Labs., Inc.</emphasis></item>
-              <item><emphasis effect="italics">Association for Molecular Pathology v. Myriad Genetics, Inc.</emphasis></item>
-              <item><emphasis effect="italics">Nautilus, Inc. v. Biosig Instruments, Inc.</emphasis></item>
-            </list>
+          <para id="eip-69"><link class="os-embed" url="#exercise/01-06-IntP-AQ27"/></para>
+
         </problem>
-        <solution id="eip-528">
-          <para id="eip-530">B.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

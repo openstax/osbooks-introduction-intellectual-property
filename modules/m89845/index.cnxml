@@ -69,56 +69,31 @@
     <section id="eip-8" class="assessment-questions">
       <exercise id="eip-394">
         <problem id="eip-659">
-          <para id="eip-850">For which of the following are plant patents granted?</para>
-            <list id="eip-id1169525715695" list-type="enumerated" number-style="upper-alpha">
-              <item>Bioengineered plants.</item>
-              <item>Naturally grown plants that are distinctively different.</item>
-              <item>Plants that are asexually cultivated, not grown from seeds.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-850"><link class="os-embed" url="#exercise/01-08-IntP-AQ34"/></para>
+
         </problem>
-        <solution id="eip-534">
-          <para id="eip-535">C.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-464">
         <problem id="eip-481">
-          <para id="eip-667">What are the three patentability criteria for plant patents?</para>
-            <list id="eip-id1169852103866" list-type="enumerated" number-style="upper-alpha">
-              <item>Novelty, utility, and non-obviousness.</item>
-              <item>Novelty, distinctiveness, and non-obviousness.</item>
-              <item>Novelty, beauty, and non-obviousness.</item>
-            </list>
+          <para id="eip-667"><link class="os-embed" url="#exercise/01-08-IntP-AQ35"/></para>
+
         </problem>
-        <solution id="eip-536">
-          <para id="eip-537">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-686">
         <problem id="eip-350">
-          <para id="eip-403">What are design patents granted for?</para>
-            <list id="eip-id1164451437415" list-type="enumerated" number-style="upper-alpha">
-              <item>Functional designs for manufactured items, like the shape of a chair.</item>
-              <item>Ornamental designs for items of manufacture, like the fabric design of a chair.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-403"><link class="os-embed" url="#exercise/01-08-IntP-AQ36"/></para>
+
         </problem>
-        <solution id="eip-538">
-          <para id="eip-539">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-232">
         <problem id="eip-771">
-          <para id="eip-130">What are the three patentability criteria for a design patent?</para>
-            <list id="eip-id1165797833393" list-type="enumerated" number-style="upper-alpha">
-              <item>Novelty, utility, and non-obviousness.</item>
-              <item>Novelty, beauty, and non-obviousness.</item>
-              <item>Novelty, ornamentality, and non-obviousness.</item>
-            </list>
+          <para id="eip-130"><link class="os-embed" url="#exercise/01-08-IntP-AQ37"/></para>
+
         </problem>
-        <solution id="eip-540">
-          <para id="eip-541">C.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

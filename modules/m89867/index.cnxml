@@ -117,31 +117,16 @@
     <section id="eip-27" class="assessment-questions">
       <exercise id="eip-532">
         <problem id="eip-783">
-          <para id="eip-379">Fair use allows for the copying and use of copyrighted material for all EXCEPT which specific purpose?</para>
-            <list id="eip-id2988584" list-type="enumerated" number-style="upper-alpha">
-              <item>Criticism and comment.</item>
-              <item>News reporting.</item>
-              <item>Teaching or research.</item>
-              <item>Political organizing.</item>
-            </list>
+          <para id="eip-379"><link class="os-embed" url="#exercise/03-07-IntP-AQ47"/></para>
+
         </problem>
-        <solution id="eip-344">
-          <para id="eip-342">D.</para>
-        </solution>
       </exercise>
       <exercise id="eip-304">
         <problem id="eip-782">
-          <para id="eip-818">One of the four factors considered in whether the copying or use of a copyrighted work is considered to be fair use is “the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes.” Which of the following would likely be considered fair use?</para>
-            <list id="eip-id1165823469628" list-type="enumerated" number-style="upper-alpha">
-              <item>A profit-making magazine like
-                <emphasis effect="italics">Vanity Fair</emphasis>
-                publishes a book review that quotes several thousand words of the copyrighted book being reviewed.</item>
-              <item>A nonprofit university distributes copies of two chapters of a copyrighted textbook to its students so they don’t have to buy the textbook itself.</item>
-            </list>
+          <para id="eip-818"><link class="os-embed" url="#exercise/03-07-IntP-AQ48"/></para>
+
         </problem>
-        <solution id="eip-345">
-          <para id="eip-346">A.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

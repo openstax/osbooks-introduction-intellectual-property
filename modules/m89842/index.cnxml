@@ -140,58 +140,27 @@
     <section id="eip-5" class="assessment-questions">
       <exercise id="eip-923">
         <problem id="eip-116">
-          <para id="eip-584">How many years after the first patent law was signed in 1790 did it take for the United States to surpass Britain in the number of new inventions being patented?</para>
-            <list id="eip-id7323040" list-type="enumerated" number-style="upper-alpha">
-              <item>13 years.</item>
-              <item>75 years.</item>
-              <item>40 years.</item>
-              <item>100 years.</item>
-            </list>
+          <para id="eip-584"><link class="os-embed" url="#exercise/01-05-IntP-AQ14"/></para>
+
         </problem>
-        <solution id="eip-216">
-          <para id="eip-217">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-725">
         <problem id="eip-82">
-          <para id="eip-471">Historically, in the United States, there have been major surges in new patent filings after which of the following?</para>
-            <list id="eip-id1166285397813" list-type="enumerated" number-style="upper-alpha">
-              <item>A sharp increase in patent litigation.</item>
-              <item>New technological advances leading to the birth of new industries.</item>
-              <item>A Supreme Court decision on a major patent case.</item>
-              <item>None of the above.</item>
-            </list>
+          <para id="eip-471"><link class="os-embed" url="#exercise/01-05-IntP-AQ15"/></para>
+
         </problem>
-        <solution id="eip-218">
-          <para id="eip-219">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-330">
         <problem id="eip-6">
-          <para id="eip-388">What percentage of entrepreneurs say that patents are vital to securing venture funding?</para>
-            <list id="eip-id2146216" list-type="enumerated" number-style="upper-alpha">
-              <item>20 percent.</item>
-              <item>40 percent.</item>
-              <item>67 percent.</item>
-            </list>
+          <para id="eip-388"><link class="os-embed" url="#exercise/01-05-IntP-AQ16"/></para>
+
         </problem>
-        <solution id="eip-220">
-          <para id="eip-221">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-502">
         <problem id="eip-290">
-          <para id="eip-111">The United States was the only nation to define its greatness in its capacity for which of the following?</para>
-            <list id="eip-id1169843850106" list-type="enumerated" number-style="upper-alpha">
-              <item>Economic growth.</item>
-              <item>Military superiority.</item>
-              <item>Bringing freedom to oppressed elsewhere in the world.</item>
-              <item>Technological progress.</item>
-            </list>
+          <para id="eip-111"><link class="os-embed" url="#exercise/01-05-IntP-AQ17"/></para>
+
         </problem>
-        <solution id="eip-222">
-          <para id="eip-223">D.</para>
-        </solution>
       </exercise>
     </section>
   </content>

@@ -180,31 +180,14 @@
     </para></section>
     <section id="eip-47" class="assessment-questions">
       <exercise id="eip-165"><problem id="eip-264">
-          <para id="eip-121">What remedies does the UTSA provide for the misappropriation of trade secrets? (Choose all that apply.)</para>
-            <list id="eip-id1166286514453" list-type="enumerated" number-style="upper-alpha">
-              <item>Criminal penalties of up to five years for a first offense.</item>
-              <item>Statutory damages.</item>
-              <item>Injunctive relief.</item>
-              <item>Exemplary damages.</item>
-              <item>Attorneys’ fees.</item>
-            </list>
-        </problem>
+          <para id="eip-121"><link class="os-embed" url="#exercise/05-05-IntP-AQ25"/></para>
 
-        <solution id="eip-60">
-          <para id="eip-id1957799">B.</para>
-        </solution>
+        </problem>
       </exercise><exercise id="eip-851">
         <problem id="eip-779">
-          <para id="eip-656">What remedies were imposed in the case of <emphasis effect="italics">Mattel, Inc. v. MGA Entm’t, Inc.</emphasis> in 2013?</para>
-            <list id="eip-id3190384" list-type="enumerated" number-style="upper-alpha">
-              <item>An injunction barring a new employer from hiring the former employee of the trade secret owner.</item>
-              <item>$85 million in exemplary (punitive) damages awarded to the trade secret owner.</item>
-            </list>
+          <para id="eip-656"><link class="os-embed" url="#exercise/05-06-IntP-AQ26"/></para>
+           
         </problem>
-
-        <solution id="eip-781">
-          <para id="eip-371">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>

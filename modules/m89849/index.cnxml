@@ -60,68 +60,28 @@
   <section id="eip-10" class="assessment-questions">
     <exercise id="eip-171">
       <problem id="eip-823">
-        <para id="eip-96">Responsibility for legally enforcing patents rests with which of the following bodies?  <list id="eip-id1171908397265" list-type="enumerated" number-style="upper-alpha">
-          <item>The U.S. Patent and Trademark Office (USPTO)</item>
-          <item>The U.S. Department of Justice.</item>
-          <item>The owner of the patent, suing in a federal civil lawsuit.</item>
-        </list>
-      </para>
+        <para id="eip-96"><link class="os-embed" url="#exercise/02-01-IntP-AQ01"/></para>
     </problem>
-    <solution id="eip-571">
-      <para id="eip-125">C.</para>
-    </solution>
   </exercise>
   <exercise id="eip-59">
     <problem id="eip-602">
-      <para id="eip-869">Patent owners have which of the following rights under the law?</para>
-      <list id="eip-id1172397142217" list-type="enumerated" number-style="upper-alpha">
-        <item>The exclusive right to “practice” the patent—meaning the exclusive right to make or sell products based on the patent.</item>
-        <item>The right to exclude others from making, using, offering for sale, selling, or importing the invention covered by the patent throughout the United States.</item>
-        <item>Both of these.</item>
-      </list>
+      <para id="eip-869"><link class="os-embed" url="#exercise/02-01-IntP-AQ02"/></para>
     </problem>
-    <solution id="eip-534">
-      <para id="eip-149">B.</para>
-    </solution>
   </exercise>
   <exercise id="eip-921">
     <problem id="eip-123">
-      <para id="eip-798">Which of the following is required in order to infringe a patent?</para>
-      <list id="eip-id1163796760182" list-type="enumerated" number-style="upper-alpha">
-        <item>Intending to infringe the patent.</item>
-        <item>Making, using, or selling the patented invention without authorization.</item>
-        <item>Knowing that the patent exists.</item>
-      </list>
+      <para id="eip-798"><link class="os-embed" url="#exercise/02-01-IntP-AQ03"/></para>
     </problem>
-    <solution id="eip-306">
-      <para id="eip-878">B.</para>
-    </solution>
   </exercise>
   <exercise id="eip-754">
     <problem id="eip-469">
-      <para id="eip-615">Which of the following is the legal definition of patent infringement?</para>
-      <list id="eip-id1163875572228" list-type="enumerated" number-style="upper-alpha">
-        <item>One or more of a patent’s claims match (or “read on”) the features and functions of a device or process.</item>
-        <item>A device or process that performs a “substantially similar” functions to those described in a patent’s claims.</item>
-        <item>Both of the above are correct.</item>
-      </list>
+      <para id="eip-615"><link class="os-embed" url="#exercise/02-01-IntP-AQ04"/></para>
     </problem>
-    <solution id="eip-442">
-      <para id="eip-517">A.</para>
-    </solution>
   </exercise>
   <exercise id="eip-755">
     <problem id="eip-470">
-      <para id="eip-616">Which of the following illustrates the “doctrine of equivalents”?</para>
-      <list id="eip-id1163875572229" list-type="enumerated" number-style="upper-alpha">
-        <item>If a device performs substantially the same function in substantially the same way as your patent claim, infringement exists if any differences are insignificant.</item>
-        <item>A patent calling for an “adhesive” connection (describing glue as the preferred adhesive) may be infringed by a device using a Velcro® fastener.</item>
-        <item>Both of the above are correct.</item>
-      </list>
+      <para id="eip-616"><link class="os-embed" url="#exercise/02-01-IntP-AQ05"/></para>
     </problem>
-    <solution id="eip-443">
-      <para id="eip-518">C.</para>
-    </solution>
   </exercise>
 </section>
 </content>

@@ -80,40 +80,21 @@
     <section id="eip-34" class="assessment-questions">
       <exercise id="eip-446">
         <problem id="eip-441">
-          <para id="eip-569">Of the four individual types of marks, what does a trademark identify?</para>
-            <list id="eip-id1171463961654" list-type="enumerated" number-style="upper-alpha">
-              <item>Services provided to either consumers or other businesses.</item>
-              <item>Physical goods or commodities that are manufactured, produced, grown, or that exist naturally.</item>
-              <item>Both of the above.</item>
-            </list>
+          <para id="eip-569"><link class="os-embed" url="#exercise/04-04-IntP-AQ16"/></para>
+
         </problem>
-        <solution id="eip-971">
-          <para id="eip-972">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-554">
         <problem id="eip-552">
-          <para id="eip-963">A collective mark identifies a trademark owned by a member of a certain organization. True or False?</para>
-            <list id="eip-id1171403378463" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
+          <para id="eip-963"><link class="os-embed" url="#exercise/04-04-IntP-AQ17"/></para>
+       
         </problem>
-        <solution id="eip-973">
-          <para id="eip-974">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-939">
         <problem id="eip-689">
-          <para id="eip-184">A certification mark indicates what?</para>
-            <list id="eip-id6936317" list-type="enumerated" number-style="upper-alpha">
-              <item>The certified or verified origin of a product or service.</item>
-              <item>A product or service that meets certain standards or requirements.</item>
-            </list>
+          <para id="eip-184"><link class="os-embed" url="#exercise/04-04-IntP-AQ18"/></para>
+
         </problem>
-        <solution id="eip-975">
-          <para id="eip-976">A.</para>
-        </solution>
       </exercise>
     </section>
   </content>

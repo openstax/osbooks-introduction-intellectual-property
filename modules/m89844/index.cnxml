@@ -132,83 +132,43 @@
     <section id="eip-7" class="assessment-questions">
       <exercise id="eip-582">
         <problem id="eip-866">
-          <para id="eip-445">Which of the following is NOT a requirement for patent eligibility?</para>
-            <list id="eip-id1169834581636" list-type="enumerated" number-style="upper-alpha">
-              <item>Novel.</item>
-              <item>Revolutionary.</item>
-              <item>Non-obvious.</item>
-              <item>Useful.</item>
-            </list>
+          <para id="eip-445"><link class="os-embed" url="#exercise/01-07-IntP-AQ28"/></para>
+           
         </problem>
-        <solution id="eip-526">
-          <para id="eip-527">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-700">
         <problem id="eip-727">
-          <para id="eip-557">What does the term “prior art” refer to?</para>
-            <list id="eip-id1165787009793" list-type="enumerated" number-style="upper-alpha">
-              <item>Any previous private discussions of an invention or its components.</item>
-              <item>Any previous patent, publication, or public use of an invention.</item>
-              <item>Any previous speculation about an invention.</item>
-              <item>None of the above.</item>
-            </list>
+          <para id="eip-557"><link class="os-embed" url="#exercise/01-07-IntP-AQ29"/></para>
+
         </problem>
-        <solution id="eip-528">
-          <para id="eip-529">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-955">
         <problem id="eip-485">
-          <para id="eip-698">If you invent a functioning starship warp drive, <emphasis effect="italics">Star Trek</emphasis> would be considered prior art and your invention would be ineligible for a patent. True or False?</para>
-            <list id="eip-id1169845151671" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
+          <para id="eip-698"><link class="os-embed" url="#exercise/01-07-IntP-AQ30"/></para>
+
         </problem>
-        <solution id="eip-530">
-          <para id="eip-531">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-208">
         <problem id="eip-787">
-          <para id="eip-639">To meet the requirement for utility, which of the following must an invention do?</para>
-            <list id="eip-id1169841517045" list-type="enumerated" number-style="upper-alpha">
-              <item>Work or function as intended.</item>
-              <item>Be of some benefit to society.</item>
-              <item>Be a worthwhile product, process, or composition of matter.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-639"><link class="os-embed" url="#exercise/01-07-IntP-AQ31"/></para>
+
         </problem>
-        <solution id="eip-532">
-          <para id="eip-533">A.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-975">
         <problem id="eip-775">
-          <para id="eip-301">Why would combining a camera with a cell phone in a smartphone pass the test for non-obviousness, whereas putting wheels from a chair onto an office cart would not?</para>
-            <list id="eip-id1164439363044" list-type="enumerated" number-style="upper-alpha">
-              <item>The technology in a smartphone is much more complicated.</item>
-              <item>Putting wheels from a chair onto a cart is less difficult.</item>
-              <item>Combining a camera and a cell phone produced an unexpected result.</item>
-            </list>
+          <para id="eip-301"><link class="os-embed" url="#exercise/01-07-IntP-AQ32"/></para>
+
         </problem>
-        <solution id="eip-534">
-          <para id="eip-535">C.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-720">
         <problem id="eip-610">
-          <para id="eip-874">Of the three criteria for patenting, which is the most difficult to surmount?</para>
-            <list id="eip-id1170147838370" list-type="enumerated" number-style="upper-alpha">
-              <item>Utility.</item>
-              <item>Novelty.</item>
-              <item>Non-obviousness.</item>
-            </list>
+          <para id="eip-874"><link class="os-embed" url="#exercise/01-07-IntP-AQ33"/></para>
+
         </problem>
-        <solution id="eip-536">
-          <para id="eip-537">C.</para>
-        </solution>
       </exercise>
     </section>
   </content>

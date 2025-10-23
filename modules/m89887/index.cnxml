@@ -63,58 +63,24 @@
     <section id="eip-42" class="assessment-questions">
       <exercise id="eip-711">
         <problem id="eip-193">
-          <para id="eip-728">Trade secret protection is guaranteed by the federal government. True or False?</para>
-            <list id="eip-id1169859550905" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
-        </problem>
+          <para id="eip-728"><link class="os-embed" url="#exercise/05-02-IntP-AQ09"/></para>
 
-        <solution id="eip-300">
-          <para id="eip-132">B.</para>
-        </solution>
+        </problem>
       </exercise>
       <exercise id="eip-94">
         <problem id="eip-514">
-          <para id="eip-557">In which country did trade secret law first originate in the early 1800s?</para>
-            <list id="eip-id1168444362141" list-type="enumerated" number-style="upper-alpha">
-              <item>France.</item>
-              <item>The United States.</item>
-              <item>England.</item>
-            </list>
+          <para id="eip-557"><link class="os-embed" url="#exercise/05-02-IntP-AQ10"/></para>
         </problem>
-
-        <solution id="eip-587">
-          <para id="eip-562">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-333">
         <problem id="eip-888">
-          <para id="eip-166">What impact did the Uniform Trade Secrets Act (UTSA) of 1979 have on trade secret protection in the United States?</para>
-            <list id="eip-id1165589897278" list-type="enumerated" number-style="upper-alpha">
-              <item>It was the first trade secret law binding on every state.</item>
-              <item>It served as a model that was adopted by 48 of the 50 U.S. states.</item>
-              <item>It served as a model that was adopted by every state.</item>
-            </list>
+          <para id="eip-166"><link class="os-embed" url="#exercise/05-02-IntP-AQ11"/></para>
         </problem>
-
-        <solution id="eip-487">
-          <para id="eip-32">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-631">
         <problem id="eip-370">
-          <para id="eip-964">Which of the following best describes the problem with the current lack of uniform federal protection of trade secrets?</para>
-            <list id="eip-id1700364" list-type="enumerated" number-style="upper-alpha">
-              <item>There is no real protection against misappropriation of trade secrets.</item>
-              <item>The protections against trade secret theft are very uneven.</item>
-              <item>A federal trade secret law would merely replicate state protections.</item>
-            </list>
+          <para id="eip-964"><link class="os-embed" url="#exercise/05-02-IntP-AQ12"/></para>
         </problem>
-
-        <solution id="eip-743">
-          <para id="eip-800">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>

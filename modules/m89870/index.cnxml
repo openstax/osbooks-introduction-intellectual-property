@@ -61,31 +61,16 @@
     <section id="eip-30" class="assessment-questions">
       <exercise id="eip-604">
         <problem id="eip-98">
-          <para id="eip-454">Which of the following alternative channels for licensing copyright never allows users to change, modify, or reuse original content?</para>
-            <list id="eip-id1172043552634" list-type="enumerated" number-style="upper-alpha">
-              <item>Open source software licensing.</item>
-              <item>Open access publishing.</item>
-              <item>Creative Commons licenses.</item>
-            </list>
+          <para id="eip-454"><link class="os-embed" url="#exercise/03-10-IntP-AQ53"/></para>
+
         </problem>
-        <solution id="eip-346">
-          <para id="eip-347">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-820">
         <problem id="eip-536">
-          <para id="eip-163">Changes to copyright law in the future are likely to focus on which issues?</para>
-            <list id="eip-id4717906" list-type="enumerated" number-style="upper-alpha">
-              <item>Reducing or eliminating DRM.</item>
-              <item>Adjusting to new advances in digital technology.</item>
-              <item>Enabling and regulating a secondary market for digital content.</item>
-              <item>Shortening copyright term.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-163"><link class="os-embed" url="#exercise/03-10-IntP-AQ54"/></para>
+ 
         </problem>
-        <solution id="eip-348">
-          <para id="eip-349">E.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

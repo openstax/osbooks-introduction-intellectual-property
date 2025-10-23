@@ -226,54 +226,31 @@
     <section id="eip-16" class="assessment-questions">
       <exercise id="eip-728">
         <problem id="eip-834">
-          <para id="eip-873">Which of the following is the definition of inequitable conduct?</para>
-            <list id="eip-id7568681" list-type="enumerated" number-style="upper-alpha">
-              <item>Deceiving or misleading the patent office to grant a patent.</item>
-              <item>Deceiving or misleading a jury during opening arguments.</item>
-              <item>Deceiving or misleading the opposing party during the discovery phase.</item>
-            </list>
+          <para id="eip-873"><link class="os-embed" url="#exercise/02-07-IntP-AQ18"/></para>
+     
         </problem>
-        <solution id="eip-945">
-          <para id="eip-946">A.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-750">
         <problem id="eip-283">
-          <para id="eip-667">What’s the standard for proving willful infringement, leading to enhanced damages?</para>
-            <list id="eip-id1171492946043" list-type="enumerated" number-style="upper-alpha">
-              <item>Selling a product despite knowing that a patent exists that the product might be infringing.</item>
-              <item>Selling a product despite an objectively high likelihood that it infringed a valid patent and that this risk was known or should have been known to the infringer.</item>
-              <item>Deliberately not conducting a prior art search to determine if a patent exists that your product might be infringing.</item>
-            </list>
+          <para id="eip-667"><link class="os-embed" url="#exercise/02-07-IntP-AQ19"/></para>
+
         </problem>
-        <solution id="eip-947">
-          <para id="eip-948">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-690">
         <problem id="eip-856">
-          <para id="eip-674">What is the standard for imposing attorneys’ fees on the losing party to a patent suit?</para>
-            <list id="eip-id2011557" list-type="enumerated" number-style="upper-alpha">
-              <item>Convincing evidence of bad faith or gross negligence by the losing party.</item>
-              <item>A case that “stands out from others” in the weakness of the plaintiff’s case or the unreasonable or abusive manner in which it was litigated.</item>
-            </list>
+          <para id="eip-674"><link class="os-embed" url="#exercise/02-07-IntP-AQ20"/></para>
+
         </problem>
-        <solution id="eip-949">
-          <para id="eip-950">B.</para>
-        </solution>
+
       </exercise>
       <exercise id="eip-257">
         <problem id="eip-645">
-          <para id="eip-649">What is often the most serious damage that a court can impose upon an infringer?</para>
-            <list id="eip-id1859658" list-type="enumerated" number-style="upper-alpha">
-              <item>A very large award for monetary damages.</item>
-              <item>Pre- and post judgment interest payments on the damage award.</item>
-              <item>Injunctive relief barring further sales of the infringer’s products.</item>
-            </list>
+          <para id="eip-649"><link class="os-embed" url="#exercise/02-07-IntP-AQ21"/></para>
+
         </problem>
-        <solution id="eip-951">
-          <para id="eip-953">C.</para>
-        </solution>
+
       </exercise>
     </section>
   </content>

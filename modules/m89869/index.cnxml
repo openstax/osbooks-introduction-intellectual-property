@@ -51,16 +51,9 @@
     <section id="eip-29" class="assessment-questions">
       <exercise id="eip-565">
         <problem id="eip-939">
-          <para id="eip-808">On December 16, 2015, the Copyright Royalty Board changed the royalty rates paid by music services like Pandora. What change was made?</para>
-            <list id="eip-id1170516457237" list-type="enumerated" number-style="upper-alpha">
-              <item>The board reduced the rate from 14 cents per 100 songs played to 11 cents.</item>
-              <item>The board raised the rate to 17 cents per 100 songs played.</item>
-              <item>The board raised the rate to 20 cents per 100 songs played.</item>
-            </list>
+          <para id="eip-808"><link class="os-embed" url="#exercise/03-09-IntP-AQ52"/></para>
+
         </problem>
-        <solution id="eip-346">
-          <para id="eip-347">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>

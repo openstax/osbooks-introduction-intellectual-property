@@ -125,74 +125,32 @@
     <section id="eip-44" class="assessment-questions">
       <exercise id="eip-440">
         <problem id="eip-809">
-          <para id="eip-325">To gain trade secret protection, what must the owner do with confidential information?</para>
-            <list id="eip-id1168440826628" list-type="enumerated" number-style="upper-alpha">
-              <item>Publicize it as widely as possible.</item>
-              <item>Not disclose it.</item>
-              <item>Take active steps to keep the information secret.</item>
-            </list>
+          <para id="eip-325"><link class="os-embed" url="#exercise/05-04-IntP-AQ17"/></para>
+         
         </problem>
-
-        <solution id="eip-639">
-          <para id="eip-87">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-257">
         <problem id="eip-880">
-          <para id="eip-998">What are the benefits of developing a written trade secret plan?</para>
-            <list id="eip-id1147340" list-type="enumerated" number-style="upper-alpha">
-              <item>It serves as a policy manual that prevents situations in which unwritten rules are followed and security procedures are ignored.</item>
-              <item>In the event of litigation, it can serve as proof that you took active steps to keep the information secret.
-              </item>
-              <item>Both of these.</item>
-            </list>
+          <para id="eip-998"><link class="os-embed" url="#exercise/05-04-IntP-AQ18"/></para>
+         
         </problem>
-
-        <solution id="eip-750">
-          <para id="eip-699">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-302">
         <problem id="eip-249">
-          <para id="eip-350">How should companies handle written trade secrets?</para>
-            <list id="eip-id3900635" list-type="enumerated" number-style="upper-alpha">
-              <item>Shred them.</item>
-              <item>Mark them “secret” or “confidential,” among other measures taken.</item>
-              <item>Never store them on a computer.</item>
-            </list>
+          <para id="eip-350"><link class="os-embed" url="#exercise/05-04-IntP-AQ19"/></para>
+         
         </problem>
-
-        <solution id="eip-722">
-          <para id="eip-600">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-644">
         <problem id="eip-258">
-          <para id="eip-767">Which of these is an example of “passive disclosure” of a trade secret?</para>
-            <list id="eip-id1165587157199" list-type="enumerated" number-style="upper-alpha">
-              <item>Leaving confidential documents lying around for anyone to see.</item>
-              <item>Inadvertently disseminating information at trade shows or conferences.</item>
-              <item>Disclosing confidential information in press releases, newspaper articles, or marketing collateral.</item>
-            </list>
+          <para id="eip-767"><link class="os-embed" url="#exercise/05-04-IntP-AQ20"/></para>
         </problem>
-
-        <solution id="eip-956">
-          <para id="eip-642">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-454">
         <problem id="eip-885">
-          <para id="eip-873">What is one way to guard against the active disclosure of trade secret information?</para>
-            <list id="eip-id1171137074559" list-type="enumerated" number-style="upper-alpha">
-              <item>Prevent employee attendance at trade shows and seminars.</item>
-              <item>Appoint a trade secret committee to approve publications, speeches, and marketing collateral prior to disclosure.</item>
-              <item>Avoid meeting with prospective buyers, customers, or licensees.</item>
-            </list>
+          <para id="eip-873"><link class="os-embed" url="#exercise/05-04-IntP-AQ21"/></para>
+         
         </problem>
-
-        <solution id="eip-560">
-          <para id="eip-384">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>

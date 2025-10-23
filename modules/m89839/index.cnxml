@@ -88,45 +88,18 @@
     <section id="eip-2" class="assessment-questions">
       <exercise id="eip-781">
         <problem id="eip-765">
-          <para id="eip-379">The Statute of Monopolies in 1624 ended the practice of granting patents for which of the following?</para>
-            <list id="eip-id1171106777254" list-type="enumerated" number-style="upper-alpha">
-              <item>Inventions that were not truly novel.</item>
-              <item>The Crown’s favored inventors.</item>
-              <item>Trade in staples such as salt or soap rather than for actual inventions.</item>
-              <item>Inventions that helped industrialists monopolize whole industries.</item>
-            </list>
+          <para id="eip-379"><link class="os-embed" url="#exercise/01-02-IntP-AQ05"/></para>
         </problem>
-        <solution id="eip-4">
-          <para id="eip-963">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-858">
         <problem id="eip-652">
-          <para id="eip-288">Which of the following practices were common in early patent systems?</para>
-            <list id="eip-id1165810377897" list-type="enumerated" number-style="upper-alpha">
-              <item>Exorbitantly high patent fees.</item>
-              <item>Limited or no disclosure of the details of the invention.</item>
-              <item>No examination for patent validity.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-288"><link class="os-embed" url="#exercise/01-02-IntP-AQ06"/></para>
         </problem>
-        <solution id="eip-810">
-          <para id="eip-424">D.</para>
-        </solution>
       </exercise>
       <exercise id="eip-49">
         <problem id="eip-205">
-          <para id="eip-869">Early patent systems tended to have which of the following effects on the overall economy?</para>
-            <list id="eip-id1169852104738" list-type="enumerated" number-style="upper-alpha">
-              <item>Innovation was limited to a small sector of the population.</item>
-              <item>Biased toward incumbent industries, early patent systems did not encourage disruptive change.</item>
-              <item>Early patent systems reinforced the wealth of elites, not the productive capacity of society.</item>
-              <item>All of the above.</item>
-            </list>
+          <para id="eip-869"><link class="os-embed" url="#exercise/01-02-IntP-AQ07"/></para>
         </problem>
-        <solution id="eip-326">
-          <para id="eip-742">D.</para>
-        </solution>
       </exercise>
     </section>
   </content>

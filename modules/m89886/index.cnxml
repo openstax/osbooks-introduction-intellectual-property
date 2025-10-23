@@ -100,112 +100,47 @@
     <section id="eip-41" class="assessment-questions">
       <exercise id="eip-537">
         <problem id="eip-566">
-          <para id="eip-628">Unlike patents and trademarks, the law requires that intellectual property consisting of trade secrets not be publicly disclosed. True or False?</para>
-            <list id="eip-id1165823306933" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
-        </problem>
+          <para id="eip-628"><link class="os-embed" url="#exercise/05-01-IntP-AQ01"/></para>
 
-        <solution id="eip-563">
-          <para id="eip-902">A.</para>
-        </solution>
+        </problem>
       </exercise>
       <exercise id="eip-579">
         <problem id="eip-150">
-          <para id="eip-340">Which of the following best describes a trade secret?</para>
-            <list id="eip-id8544500" list-type="enumerated" number-style="upper-alpha">
-              <item>Information that many people do not know about how a product like a smartphone is made.</item>
-              <item>Virtually any information that is of value as a result of not being generally known.</item>
-              <item>Any information relating to the finances of a publicly held company.</item>
-            </list>
-        </problem>
+          <para id="eip-340"><link class="os-embed" url="#exercise/05-01-IntP-AQ02"/></para>
 
-        <solution id="eip-519">
-          <para id="eip-208">B.</para>
-        </solution>
+        </problem>
       </exercise>
       <exercise id="eip-391">
         <problem id="eip-153">
-          <para id="eip-564">Trade secret theft or misappropriation costs the world’s richest 40 nations approximately how much of their gross domestic product, or GDP, each year?</para>
-            <list id="eip-id1170505638034" list-type="enumerated" number-style="upper-alpha">
-              <item>1 to 3 percent.</item>
-              <item>4 to 6 percent.</item>
-              <item>7 to 10 percent.</item>
-            </list>
+          <para id="eip-564"><link class="os-embed" url="#exercise/05-01-IntP-AQ03"/></para>
         </problem>
-
-        <solution id="eip-25">
-          <para id="eip-247">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-79">
         <problem id="eip-678">
-          <para id="eip-685">What are the two main requirements for information to be protectable as a trade secret?</para>
-            <list id="eip-id1166285759366" list-type="enumerated" number-style="upper-alpha">
-              <item>It must be novel and non-obvious.</item>
-              <item>It must be original and expressed in a tangible form that can be seen or copied.</item>
-              <item>It must be not generally known by others, and it must have been subject to reasonable efforts to avoid public disclosure.</item>
-            </list>
+          <para id="eip-685"><link class="os-embed" url="#exercise/05-01-IntP-AQ04"/></para>
         </problem>
-
-        <solution id="eip-943">
-          <para id="eip-172">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-674">
         <problem id="eip-607">
-          <para id="eip-299">What is one key advantage of trade secret protection versus patent protection?</para>
-            <list id="eip-id4951439" list-type="enumerated" number-style="upper-alpha">
-              <item>It protects the information to be kept secret indefinitely.</item>
-              <item>It prevents others from ever independently deriving the same information.</item>
-              <item>Both of the above are correct.</item>
-            </list>
+          <para id="eip-299"><link class="os-embed" url="#exercise/05-01-IntP-AQ05"/></para>
         </problem>
-
-        <solution id="eip-876">
-          <para id="eip-222">A.</para>
-        </solution>
       </exercise>
       <exercise id="eip-13">
         <problem id="eip-444">
-          <para id="eip-545">If you invent faster-than-light travel but believe someone will be able to reverse engineer it by examining your starship, should you patent it or keep it as a trade secret?</para>
-            <list id="eip-id1171119933343" list-type="enumerated" number-style="upper-alpha"><item>Keep it as a trade secret.</item>
-              <item>Patent it.</item>
-            </list>
+          <para id="eip-545"><link class="os-embed" url="#exercise/05-01-IntP-AQ06"/></para>
         </problem>
-
-        <solution id="eip-615">
-          <para id="eip-645">B.</para>
-        </solution>
       </exercise>
       <exercise id="eip-35">
         <problem id="eip-899">
-          <para id="eip-157">What did the Supreme Court note in the case of
-            <emphasis effect="italics">Bonito Boats v. Thunder Craft Boats</emphasis>?</para>
-            <list id="eip-id1168440943101" list-type="enumerated" number-style="upper-alpha">
-              <item>One cannot legally misappropriate trade secrets.</item>
-              <item>Nobody is above the law, not even a trade secret owner.</item>
-              <item>The holder of a trade secret does not have protection against reverse engineering.</item>
-            </list>
+          <para id="eip-157"><link class="os-embed" url="#exercise/05-01-IntP-AQ07"/></para>
+          
         </problem>
-
-        <solution id="eip-488">
-          <para id="eip-428">C.</para>
-        </solution>
       </exercise>
       <exercise id="eip-721">
         <problem id="eip-805">
-          <para id="eip-684">If information is protected as a valid trade secret, a competitor can be stopped from using it no matter who he obtained it from. True or False?</para>
-            <list id="eip-id1165589909249" list-type="enumerated" number-style="upper-alpha">
-              <item>True.</item>
-              <item>False.</item>
-            </list>
+          <para id="eip-684"><link class="os-embed" url="#exercise/05-01-IntP-AQ08"/></para>
+           
         </problem>
-
-        <solution id="eip-968">
-          <para id="eip-12">B.</para>
-        </solution>
       </exercise>
     </section>
   </content>
